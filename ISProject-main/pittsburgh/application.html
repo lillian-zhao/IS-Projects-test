@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Application</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="./assets/css/sweetalert2.min.css" />
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+  </head>
+  <body>
+    <div class="darkRed-bg text-white">
+      <div
+        class="container d-flex justify-content-between align-items-center py-2"
+      >
+        <a href="index.html">
+          <img
+            src="./assets/img/cmu-wordmark-horizontal-k.svg"
+            class="img-fluid navLogo"
+            alt=""
+          />
+        </a>
+        <div class="d-none d-md-flex align-items-center menuGap">
+          <a href="learn-more.html">
+            <h5 class="fw-bold m-0">Learn More</h5>
+          </a>
+          <div class="vbar"></div>
+          <a href="projects.html">
+            <h5 class="fw-bold m-0">Projects</h5>
+          </a>
+          <div class="vbar"></div>
+
+          <a href="#">
+            <h5 class="fw-bold m-0">Apply</h5>
+          </a>
+        </div>
+        <div class="dropdown d-md-none">
+          <button
+            class="btn btn-secondary dropdown-toggle bg-transparent border-0"
+            type="button"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+          >
+            <i class="fa fa-bars fs-2" aria-hidden="true"></i>
+          </button>
+          <ul class="dropdown-menu">
+            <li>
+              <a class="dropdown-item" href="learn-more.html">Learn More</a>
+            </li>
+            <li><a class="dropdown-item" href="projects.html">Projects</a></li>
+            <li><a class="dropdown-item" href="#">Apply</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="contianer-fluid">
+      <img
+        src="./assets/img/applicationBanner.png"
+        class="img-fluid appBanner"
+        alt=""
+      />
+    </div>
+    <h5 class="fw-normal lh-base my-4" style= "text-align: left; padding-left: 60px; padding-right: 20px;">
+      As a Community Partner, these are the most important conditions we request from you:
+    </h5>
+    <ul class="fs-5" style= "text-align: left; padding-left: 80px; padding-right: 20px;">
+      <li>
+        Attend the mandatory Client Orientation Meeting on CMU Campus on Wednesday, 
+        January 31, 2024, 11:00am - 1:10pm.
+      </li>
+      <li>
+        Provide biweekly feedback on the team and the project progress via a short 
+        online form and periodic conversations with the supervising faculty member.
+      </li>
+      <li>Invest your time - there is no financial cost to be a community partner.</li>
+    </ul>
+    <div class = "container my-4">
+      <iframe class="airtable-embed" src="https://airtable.com/embed/appoZ4Oki9OwZgFuz/shrfdCoRYnlhz0Vbu?backgroundColor=teal" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+    </div>
+    
+    <!-- <form id="applicationForm" action="#" method="post">
+      <div class="container applicationWrapper">
+        <h1 class="fw-bold text-red text-center">Apply Now</h1>
+        <h5 class="text-secondary text-center fw-normal mt-3">
+          Applications are accepted throughout the year. Complete and submit the
+          form below to apply.
+        </h5>
+
+        <div class="inputWrapper my-3">
+          <h6 class="m-0 mb-2">Campus <span class="text-red">*</span></h6>
+          <label for="Campus">
+            <input
+              type="radio"
+              value="Pittsburgh"
+              checked
+              class="checkbox-custom"
+              id="Campus"
+            />
+            Pittsburgh
+          </label>
+        </div>
+        <div class="inputWrapper my-3">
+          <h6 class="m-0 mb-2">
+            Courses Available <span class="text-red">*</span>
+          </h6>
+
+          <div class="d-flex">
+            <label for="course1" class="d-flex align-items-center">
+              <input
+                type="radio"
+                value="67-373"
+                class="radio-custom"
+                id="course1"
+                name="course"
+                checked
+              />
+              &nbsp; 67-373 Spring Course
+            </label>
+            <label for="course2" class="d-flex align-items-center ms-3">
+              <input
+                type="radio"
+                value="67-240"
+                class="radio-custom"
+                id="course2"
+                name="course"
+              />
+              &nbsp; 67-240 Fall Course
+            </label>
+          </div>
+        </div>
+        <div class="inputWrapper my-3">
+          <h6 class="m-0 mb-2">Course Description</h6>
+          <input
+            type="text"
+            class="appInput"
+            id="Description"
+            placeholder="A junior level team-based project course in Information Systems that focuses on working as a team to build a solution to meet the needs of a client."
+          />
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="inputWrapper my-3">
+              <p class="m-0 mb-2">
+                Organization Name <span class="text-red">*</span>
+              </p>
+              <input
+                type="text"
+                class="appInput"
+                required
+                id="OrganizationName"
+                placeholder="EduTeach"
+              />
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="inputWrapper my-3">
+              <p class="m-0 mb-2">
+                Organization Street <span class="text-red">*</span>
+              </p>
+              <input
+                type="text"
+                class="appInput"
+                required
+                id="OrganizationStreet"
+                placeholder="14 Street NE"
+              />
+            </div>
+          </div>
+        </div>
+        <div class="inputWrapper my-3">
+          <p class="m-0 mb-2">
+            Organization Mission <span class="text-red">*</span>
+          </p>
+          <textarea
+            class="appTextArea"
+            required
+            id="OrganizationMission"
+            rows="5"
+            placeholder="EduTeach is a non-profit organization committed to providing quality elementary education to orphaned children. Through innovative teaching methods and personalized attention, we strive to empower every child with knowledge and skills for a brighter future. Our mission is to break the cycle of poverty by ensuring that every child, regardless of their circumstances, has access to education and the opportunity to reach their full potential. By offering holistic education, we aim to inspire a love for learning, foster critical thinking skills, and empower children to become confident, compassionate, and contributing members of society."
+          ></textarea>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="inputWrapper my-3">
+              <p class="m-0 mb-2">First Name <span class="text-red">*</span></p>
+              <input
+                type="text"
+                class="appInput"
+                required
+                id="FirstName"
+                placeholder="Gertrude"
+              />
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="inputWrapper my-3">
+              <p class="m-0 mb-2">Last Name<span class="text-red">*</span></p>
+              <input
+                type="text"
+                class="appInput"
+                required
+                id="LastName"
+                placeholder="Grant"
+              />
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="inputWrapper my-3">
+              <p class="m-0 mb-2">Job Title</p>
+              <input
+                type="text"
+                class="appInput"
+                id="JobTitle"
+                placeholder="Tech Lead"
+              />
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="inputWrapper my-3">
+              <p class="m-0 mb-2">Email <span class="text-red">*</span></p>
+              <input
+                type="email"
+                class="appInput"
+                required
+                id="Email"
+                placeholder="grant@example.com"
+              />
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="inputWrapper my-3">
+              <p class="m-0 mb-2">Work Phone <span class="text-red">*</span></p>
+              <input
+                type="text"
+                class="appInput"
+                required
+                id="WorkPhone"
+                placeholder="(+1) 412 -223-3456"
+              />
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="inputWrapper my-3">
+              <p class="m-0 mb-2">
+                Personal Phone <span class="text-red">*</span>
+              </p>
+              <input
+                type="text"
+                class="appInput"
+                required
+                id="PersonalPhone"
+                placeholder="(+1) 412 -546-2309"
+              />
+            </div>
+          </div>
+        </div>
+
+        <div class="inputWrapper my-3">
+          <p class="m-0 mb-2">
+            What Technology Decisions is this individual responsible for?
+            <span class="text-red">*</span>
+          </p>
+          <textarea
+            class="appTextArea"
+            required
+            id="Responsibilities"
+            rows="5"
+            placeholder="I am responsible for making technology decisions related to the organization's educational programs and administrative functions. This may include selecting and implementing educational software and tools to enhance teaching and learning experiences for orphaned children, managing the organization's website or mobile app to communicate with stakeholders and donors, and ensuring the security and efficiency of technology systems used for data management and administrative tasks."
+          ></textarea>
+        </div>
+
+        <div class="inputWrapper my-4">
+          <p class="m-0 mb-2">
+            Project Description <span class="text-red">*</span>
+          </p>
+          <textarea
+            class="appTextArea"
+            required
+            id="ProjectDescription"
+            rows="3"
+            placeholder="Learning Management System (LMS): An LMS could help EduTeach organize and deliver their educational content effectively. It could provide a centralized platform for managing course materials, assignments, assessments, and communication with students and teachers, facilitating remote learning and collaboration."
+          ></textarea>
+        </div>
+
+        <div class="d-flex align-items-md-center text-secondary my-4">
+          <i class="fa fa-info-circle fs-3" aria-hidden="true"></i>
+          <h6 class="m-0 fw-normal ms-2">
+            What are the issues, problems, ideas, or projects that your
+            organization would like to explore with the student software
+            development team? You may be as specific or general as you would
+            like? Please write this above.
+          </h6>
+        </div>
+
+        <div class="inputWrapper my-3">
+          <p class="m-0 mb-2">Terms & Conditions</p>
+
+          <div class="d-flex align-items-start my-3">
+            <input type="checkbox" class="checkbox-custom" id="Terms1" />
+            <p class="m-0 ms-3">
+              Attend the mandatory Client Orientation Meeting on CMU Campus on
+              Wednesday, January 31, 2024, 11:00am - 1:10pm.
+            </p>
+          </div>
+          <div class="d-flex my-3">
+            <input type="checkbox" class="checkbox-custom" id="Terms2" />
+            <p class="m-0 ms-3">
+              2. Provide biweekly feedback on the team and the project progress
+              via a short online form and periodic conversations with the
+              supervising faculty member.
+            </p>
+          </div>
+          <div class="d-flex mt-3">
+            <input type="checkbox" class="checkbox-custom" id="Terms3" />
+            <p class="m-0 ms-3">
+              3. Invest your time - there is no financial cost to be a community
+              partner.
+            </p>
+          </div>
+        </div>
+
+        <div class="inputWrapper my-4">
+          <p class="m-0 mb-2">Please let us know any questions you have:</p>
+          <input
+            type="text"
+            class="appInput"
+            id="Questions"
+            placeholder="I do not have any questions at the moment. "
+          />
+        </div>
+
+        <div class="submitBtn" onclick="submitForm()">
+          <span id="submitText">Submit</span>
+          <i class="fa fa-arrow-right" aria-hidden="true"></i>
+          <i
+            id="spinner"
+            class="fa fa-spinner fa-spin"
+            style="display: none"
+          ></i>
+        </div>
+      </div>
+    </form> -->
+    <div class="container-fluid bgGray">
+      <div class="container py-4">
+        <img
+          src="./assets/img/cmu-wordmark-horizontal-k.svg"
+          class="img-fluid mt-3"
+          alt=""
+        />
+        <div class="row justify-content-between">
+          <div class="col-lg-3 col-md-6 my-3 text-white">
+            <h5 class="fw-bold mt-3">Address</h5>
+            <h5 class="fw-light">
+              Information Systems at Carnegie Mellon University 5000 Forbes
+              Avenue, Pittsburgh, PA 15213
+            </h5>
+          </div>
+          <div class="col-lg-3 col-md-6 my-3 text-white">
+            <h5 class="fw-bold mt-3">Email</h5>
+            <h5 class="fw-light m-0 my-2">
+              <a href="mailto:jpoeppin@andrew.cmu.edu"
+                >jpoeppin@andrew.cmu.edu</a
+              >
+            </h5>
+
+            <!-- <h5 class="fw-light m-0 my-2">
+              <a href="mailto:joemertz@cmu.edu">joemertz@cmu.edu</a>
+            </h5> -->
+          </div>
+          <div class="col-lg-2 col-md-6 my-3 text-white">
+            <h5 class="fw-bold mt-3">Contact</h5>
+            <h5 class="fw-light m-0 my-2">(412) 268-3259</h5>
+            <div class="d-flex socialGap">
+              <img src="./assets/img/fb-icon.png" alt="" />
+              <img src="./assets/img/insta-icon.png" alt="" />
+              <img src="./assets/img/linkedin-icon.png" alt="" />
+              <img src="./assets/img/gmail-icon.png" alt="" />
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 my-3 text-white">
+            <img src="./assets/img/dog.png" class="img-fluid dog" alt="" />
+          </div>
+        </div>
+        <div class="col-lg-9 my-3">
+          <p class="fst-italic text-white footerPara">
+            Acknowledgements: This website is the outcome of a student project
+            in IS Consulting Project (67-373) and is maintained by
+            student led effort. Credits: Website prototyping and development © Al Dana Al-Naemi,
+            Fatima Johar and May Thu Khin. Website
+            maintenance © Stephanie Pang, Samara McCallum, Emmet Mack, Allen
+            Yao, Benjamin Chen, and Chloe Deng. Faculty advisors: Prof. Mohammad Aazam and Prof. Julia Poepping.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <script src="./assets/js/bootstrap.bundle.min.js"></script>
+    <script src="./assets/js/jquery.min.js"></script>
+    <script src="./assets/js/sweetalert2@11.js"></script>
+    <script src="./assets/js/ApplicationForm.js"></script>
+  </body>
+</html>

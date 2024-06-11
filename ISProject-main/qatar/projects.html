@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Projects</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./assets/css/materialize.min.css" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+  </head>
+  <body>
+    <div class="darkRed-bg text-white">
+      <div
+        class="container d-flex justify-content-between align-items-center py-2"
+      >
+        <a href="index.html">
+          <img
+            src="./assets/img/cmu-wordmark-horizontal-k.svg"
+            class="img-fluid navLogo"
+            alt=""
+          />
+        </a>
+        <div class="d-none d-md-flex align-items-center menuGap">
+          <a href="learn-more.html">
+            <h5 class="fw-bold m-0 customFontSize">Learn More</h5>
+          </a>
+          <div class="vbar"></div>
+          <a href="#">
+            <h5 class="fw-bold m-0 customFontSize">Projects</h5>
+          </a>
+          <div class="vbar"></div>
+
+          <a href="application.html">
+            <h5 class="fw-bold m-0 customFontSize">Apply</h5>
+          </a>
+        </div>
+        <div class="dropdown d-md-none">
+          <button
+            class="btn btn-secondary dropdown-toggle bg-transparent border-0"
+            type="button"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+          >
+            <i class="fa fa-bars fs-2" aria-hidden="true"></i>
+          </button>
+          <ul class="dropdown-menu">
+            <li>
+              <a class="dropdown-item" href="learn-more.html">Learn More</a>
+            </li>
+            <li><a class="dropdown-item" href="#">Projects</a></li>
+            <li><a class="dropdown-item" href="application.html">Apply</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-6 col-lg-4 my-3">
+          <label class="fs-6">Select Sustainable Development Goals</label>
+          <select multiple class="select_all" id="sdg">
+            <option value="" disabled selected>Choose your option</option>
+            <option value="nopoverty">No Poverty</option>
+            <option value="zerohunger">Zero Hunger</option>
+            <option value="promotehealth">Good Health and Well-being</option>
+            <option value="qualityeducation">Quality Education</option>
+            <option value="genderequality">Gender Equality</option>
+            <option value="cleanwatersaniation">Clean Water and Sanitation</option>
+            <option value="">Affordable and Clean Energy</option>
+            <option value="workandeconomicgrowth">
+              Decent Work and Economic Growth
+            </option>
+            <option value="industryinnovationinfrastructure">
+              Industry, Innovation, and Infrastructure
+            </option>
+            <option value="">Reduced Inequality</option>
+            <option value="sustainablecities">
+              Sustainable Cities and Communities
+            </option>
+            <option value="">Responsible Consumption and Production</option>
+            <option value="climateaction">Climate Action</option>
+            <option value="lifebelowwater">Life Below Water</option>
+            <option value="lifeonland">Life on Land</option>
+            <option value="peaceandinclusion">
+              Peace, Justice, and Strong Institutions
+            </option>
+            <option value="partnershipsforgoals">
+              Partnerships for the Goals
+            </option>
+          </select>
+        </div>
+        <div class="col-md-6 col-lg-4 my-3">
+          <label class="fs-6">Select Solution Type</label>
+          <select multiple class="select_all" id="tech">
+            <option value="" disabled selected>Choose your option</option>
+            <option value="api">API</option>
+            <option value="crm">CRM</option>
+            <option value="dataanalytics">Data Analytics</option>
+            <option value="databasesolution">Database Solution</option>
+            <option value="geographicinformationsystem">
+              Geographic Information System
+            </option>
+            <option value="informationsecurityrisk">
+              Information Security & Risk
+            </option>
+            <option value="informationkiosk">Information Kiosk</option>
+            <option value="mobapp">Mobile Application</option>
+            <option value="socialmediapage">Social Media Page</option>
+            <option value="softwareintegration">Software Integration</option>
+            <option value="technologystrategy">Technology Strategy</option>
+            <option value="userexperience">User Experience</option>
+            <option value="webapp">Web Application</option>
+            <option value="searchengingeoptimization">Search Engine</option>
+          </select>
+        </div>
+        <!-- <div class="col-md-6 col-lg-2 my-3">
+          <label class="fs-6">Select Year</label>
+          <select multiple class="select_all" id="year">
+            <option value="" disabled selected>Choose your option</option>
+            <option value="2022">2022</option>
+            <option value="2023">2023</option>
+            <option value="2024">2024</option>
+            <option value="2025">2025</option>
+          </select>
+        </div> -->
+        <!-- <div class="col-md-6 col-lg-3 my-3">
+          <label class="fs-6">Select Course</label>
+          <select multiple class="select_all" id="course">
+            <option value="" disabled selected>Choose your option</option>
+            <option value="67-373">67-373: Consulting Project</option>
+            <option value="67-240">67-240: Mobile Web Design</option>
+          </select>
+        </div> -->
+      </div>
+    </div>
+    <!-- <h3 class="text-red text-center my-4">
+      Past Capstone Consulting Projects
+    </h3> -->
+    <div class="container projectsHeight mb-5">
+      <div id="noRecordsFound" style="display: none">No records found</div>
+      <div
+        class="d-flex justify-content-center flex-wrap"
+        id="companyWrapperContainer"
+      ></div>
+    </div>
+
+    <div id="popup" class="popup">
+      <div class="popup-content">
+        <span class="ClosePopup"
+          ><i class="fa fa-times fs-3 text-danger" aria-hidden="true"></i
+        ></span>
+        <img
+          src="./assets/img/Logos/amachi.jpeg"
+          class="img-fluid popupLogo"
+          alt=""
+        />
+
+        <h6 class="fw-normal mt-4">
+          <span class="fw-bold me-2">Community Partner:</span>
+        </h6>
+        <h6 class="fw-normal mt-3">
+          <span class="fw-bold me-2">Representatives:</span>
+        </h6>
+        <h6 class="fw-normal mt-3">
+          <span class="fw-bold me-2">Student Team:</span>
+        </h6>
+        <h6 class="fw-normal mt-4"></h6>
+        <div class="exectiveSummeryBtn mx-auto mt-4">Executive Summary</div>
+      </div>
+    </div>
+
+    <div class="container-fluid bgGray">
+      <div class="container py-4">
+        <img
+          src="./assets/img/cmu-wordmark-horizontal-k.svg"
+          class="img-fluid mt-3"
+          alt=""
+        />
+        <div class="row justify-content-between">
+          <div class="col-lg-3 col-md-6 my-3 text-white">
+            <h5 class="fw-bold mt-3 customFontSize">Address</h5>
+            <h5 class="fw-light customFontSize">
+              Information Systems at Carnegie Mellon University 5000 Forbes
+              Avenue, Pittsburgh, PA 15213
+            </h5>
+          </div>
+          <div class="col-lg-3 col-md-6 my-3 text-white">
+            <h5 class="fw-bold mt-3 customFontSize">Email</h5>
+            <h5 class="fw-light m-0 my-2 customFontSize">
+              <a href="mailto:jpoeppin@andrew.cmu.edu"
+                >jpoeppin@andrew.cmu.edu</a
+              >
+            </h5>
+            <!-- <h5 class="fw-light m-0 my-2 customFontSize">
+              <a href="mailto:joemertz@cmu.edu ">joemertz@cmu.edu</a>
+            </h5> -->
+          </div>
+          <div class="col-lg-2 col-md-6 my-3 text-white">
+            <h5 class="fw-bold mt-3 customFontSize">Contact</h5>
+            <h5 class="fw-light m-0 my-2 customFontSize">(412) 268-3259</h5>
+            <div class="d-flex socialGap">
+              <img src="./assets/img/fb-icon.png" alt="" />
+              <img src="./assets/img/insta-icon.png" alt="" />
+              <img src="./assets/img/linkedin-icon.png" alt="" />
+              <img src="./assets/img/gmail-icon.png" alt="" />
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 my-3 text-white">
+            <img src="./assets/img/dog.png" class="img-fluid dog" alt="" />
+          </div>
+        </div>
+        <div class="col-lg-9 my-3">
+          <p class="fst-italic text-white footerPara">
+            Acknowledgements: This website is the outcome of a student project
+            in IS Consulting Project (67-373) and is maintained by
+            student led effort. Credits: Website prototyping and development © Al Dana Al-Naemi,
+            Fatima Johar and May Thu Khin. Website
+            maintenance © Stephanie Pang, Samara McCallum, Emmet Mack, Allen
+            Yao, Benjamin Chen, and Chloe Deng. Faculty advisors: Prof. Mohammad Aazam and Prof. Julia Poepping.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <script src="./assets/js/bootstrap.bundle.min.js"></script>
+    <script src="./assets/js/jquery.min.js"></script>
+    <script src="./assets/js/materialize.min.js"></script>
+    <script src="./assets/js/project-filter.js"></script>
+  </body>
+</html>

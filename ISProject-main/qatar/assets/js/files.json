@@ -1,0 +1,289 @@
+[
+
+  {
+    "id": 1,
+    "partner": "412Connect",
+    "year": "2023",
+    "course": ["67-373"],
+    "representatives": ["Sera Linardi", "Ivy Chang", "Leo Jung"],
+    "students": ["Danagul Azimzhanova", "Jacky He", "Kevin Lin", "Eric Rohrer"],
+    "desc": "412Connect aims to showcase organizations from marginalized communities to local university students through an online scavenger hunt. The CMU IS student team primarily worked on addressing the current pain points of the website by redesigning the user dashboard, revamping the user authentication process,and remodeling user feedback collection. These changes should create a more intuitive user experience that helps the platform better retain students down the line.",
+    "logo": "assets/img/project_logos/spring2023/412Connect.png",
+    "pdf": "assets/img/project_pdfs/spring2023/412Connect.pdf",
+    "sdg": ["equality", "qualityeducation"],
+    "tech": ["api", "technologystrategy", "userexperience", "webapp"]
+  },
+
+
+  {
+    "id": 2,
+    "partner": "Amachi",
+    "year": "2023",
+    "course": ["67-373"],
+    "representatives": ["Caily Grube"],
+    "students": [
+      "Saloni Gandhi",
+      "Kimberly Gao",
+      "Zhuowen (Helen)",
+      "Huang Zahir Saiyed"
+    ],
+    "desc": "Amachi Pittsburgh is a non-profit organization dedicated to empowering, nurturing, and protecting youth affected by incarceration in the Greater Pittsburgh area through mentoring programs. The CMU IS students developed a communication platform on Geneva to build a community for Amachi's mentors, providing a range of support resources. This initiative fosters a sense of community among mentors and streamlines communication between staff and mentors, ultimately contributing to more effective mentorship and improved outcomes for the youth involved.",
+    "logo": "assets/img/project_logos/spring2023/Amachi.png",
+    "pdf": "assets/img/project_pdfs/spring2023/Amachi.pdf",
+    "sdg": ["equality"],
+    "tech": ["softwareintegration", "technologystrategy"]
+  },
+
+  {
+    "id": 3,
+    "partner": "Bhutanese Community Association of Pittsburgh",
+    "year": "2023",
+    "course": ["67-373"],
+    "representatives": ["Khara Timsina"],
+    "students": [
+      "Adriana Poznanski",
+      "Mona Lin",
+      "Marko Henien",
+      "Rahul Ravula"
+    ],
+    "desc": "The mission of BCAP is to provide support, education and a sense of community for Bhutanese community members in Pittsburgh. Our consulting team helped BCAP centralize their information management, and implement an appointment management system using Google Suite. This solution will help BCAP spend less time tracking down information, and more time meeting with community members, which further promotes the organization’s mission.",
+    "logo": "assets/img/project_logos/spring2023/BCAP.jpg",
+    "pdf": "assets/img/project_pdfs/spring2023/BCAP.pdf",
+    "sdg": ["peaceandinclusion", "qualityeducation"],
+    "tech": ["dataanalytics"]
+  },
+
+  {
+    "id": 4,
+    "partner": "Center for Organ Recovery & Education",
+    "year": "2023",
+    "course": ["67-373"],
+    "representatives": ["Bill DiPlacido"],
+    "students": ["Jim Chen", "Rebecca Jiang", "Anna Li", "Victor Waddell"],
+    "desc": "Center for Organ Recovery & Education's mission is to save and heal lives through donation. The CMU IS students created a custom web app for more systematic event management. The result was automated the event management process, improved efficiency, reduced human error, and facilitated donation education.",
+    "logo": "assets/img/project_logos/spring2023/CORE.png",
+    "pdf": "assets/img/project_pdfs/spring2023/CORE.pdf",
+    "sdg": ["promotehealth"],
+    "tech": ["webapp"]
+  },
+
+  {
+    "id": 5,
+    "partner": "Center for Shared Prosperity",
+    "year": "2023",
+    "course": ["67-373"],
+    "representatives": ["Jordan Mroziak"],
+    "students": [
+      "Pranav Addepalli",
+      "David Matovic",
+      "Sean Pham",
+      "Dillon Shu"
+    ],
+    "desc": "The Center for Shared Prosperity aims to reduce structural barriers to equitable prosperity in the Pittsburgh region. In order to help achieve this, the CMU IS student team created a website to showcase local minoritized businesses to students and also made a process document that covers how to host a local business on campus. Both of these deliverables are part of an initiative to increase CMU engagement with local businesses, both in terms of awareness and spending.",
+    "logo": "assets/img/project_logos/spring2023/CSP.png",
+    "pdf": "assets/img/project_pdfs/spring2023/CSP.pdf",
+    "sdg": [
+      "cleanenergy",
+      "climateaction",
+      "equality",
+      "genderequality",
+      "lifeonland",
+      "partnershipsforgoals",
+      "peaceandinclusion",
+      "promotehealth",
+      "sustainablecities",
+      "workandeconomicgrowth",
+      "zerohunger"
+    ],
+    "tech": [
+      "databasesolution",
+      "searchengingeoptimization",
+      "userexperience",
+      "webapp"
+    ]
+  },
+
+  {
+    "id": 6,
+    "partner": "Computer Reach",
+    "year": "2023",
+    "course": ["67-373"],
+    "representatives": ["Kyle Spangler"],
+    "students": ["Brandan Chen", "Elyse Im", "Joanna Yao"],
+    "desc": "Computer Reach's mission is to make technology available to people most in need through refurbished equipment, computer literacy, training, and support. The CMU IS student team developed a Python script to automate the device data collection and upload process of incoming machines donated to the organization. With this script, Computer Reach is able to improve productivity, save time and effort. as well as minimize errors from manual data entry.",
+    "logo": "assets/img/project_logos/spring2023/ComputerReach.jpg",
+    "pdf": "assets/img/project_pdfs/spring2023/ComputerReach.pdf",
+    "sdg": [
+      "equality",
+      "partnershipsforgoals",
+      "qualityeducation",
+      "industryinnovationinfrastructure"
+    ],
+    "tech": ["api", "softwareintegration", "technologystrategy"]
+  },
+
+  {
+    "id": 7,
+    "partner": "Equity Impact Center",
+    "year": "2023",
+    "representatives": ["Janita Kilgore"],
+    "students": [
+      "Wen Shan Jiang",
+      "Joan Lee",
+      "Tejas Venkatesh",
+      "Asyer Yonas"
+    ],
+    "desc": "Equity Impact Center's vision is to trasnform leaders, non-profits and the arts to be a means through which we develop a more equitable society. Our project worked to create an online portal where volunteers and non-profits can easily find and connect with each other. This would generate more volunteering hours in the community and allow EIC's partners to be able to better fill volunteer positions.",
+    "logo": "assets/img/project_logos/spring2023/EIC.png",
+    "pdf": "assets/img/project_pdfs/spring2023/EIC.pdf",
+    "sdg": ["equality", "promotehealth", "peaceandinclusion"],
+    "tech": ["userexperience", "informationkiosk", "technologystrategy"]
+  },
+
+  {
+    "id": 8,
+    "partner": "Filipino-American Association of Pittsburgh",
+    "year": "2023",
+    "course": ["67-373"],
+    "representatives": ["Leilani Mears"],
+    "students": ["Lea De", "Vylder Michelle", "Liu Alex Barrios"],
+    "desc": "The Filipino-American Association of Pittsburgh's mission is to preserve, promote, and perpetuate the Filipino heritage among its members and the general public through cultural, charitable, and educational activities. The CMU IS students improved their data management due to their lack of centralization and automation. The result was an improved website with automated data collection and transfer of legacy data into their new system.",
+    "logo": "assets/img/project_logos/spring2023/FAAP.jpg",
+    "pdf": "assets/img/project_pdfs/spring2023/FAAP.pdf",
+    "sdg": ["equality", "peaceandinclusion"],
+    "tech": ["databasesolution", "webapp"]
+  },
+
+  {
+    "id": 9,
+    "partner": "First Tee",
+    "year": "2023",
+    "course": ["67-373"],
+    "representatives": ["Paul Coultas"],
+    "students": ["Edward Chen", "Alexander Ma", "Nathan Mahers"],
+    "desc": "Often, First Tee coaches need to cancel classes in case of emergencies and notify the participants as soon as possible, which can take quite a bit of time out in the field. The mission was to create a user friendly application that allows First Tee coaches to send mass text and mass email notifications to participants in their classes in case of emergencies or cancellations in the click of just a few buttons.",
+    "logo": "assets/img/project_logos/spring2023/FirstTee.png",
+    "pdf": "assets/img/project_pdfs/spring2023/FirstTee.pdf",
+    "sdg": [
+      "qualityeducation",
+      "genderequality",
+      "equality",
+      "sustainablecities",
+      "workandeconomicgrowth",
+      "peaceandinclusion"
+    ],
+    "tech": [
+      "webapp",
+      "api",
+      "informationsecurityrisk",
+      "softwareintegration",
+      "technologystrategy",
+      "userexperience"
+    ]
+  },
+
+  {
+    "id": 10,
+    "partner": "Greater Valley Community Services",
+    "year": "2023",
+    "course": ["67-373"],
+    "representatives": ["Henderson Tempestt"],
+    "students": ["Jasmine Nie", "Ryan McGrady", "Annie Eng"],
+    "desc": "We wish to set up a Ruby on Rails web application hosted on GitHub that enables secure digital submission of documents from foster parents with caseworkers who will be able to add checklist categories for foster parents to complete. The CMU IS team created a Ruby on Rails app that was deployable on a non static website that allows case workers and foster care parents to submit documents and view when they're due. The impact of the project allowed the organization to make file organization / collection faster and streamlined through converting to digital forms.",
+    "logo": "assets/img/project_logos/spring2023/GVCS.png",
+    "pdf": "assets/img/project_pdfs/spring2023/GVCS.pdf",
+    "sdg": ["peaceandinclusion"],
+    "tech": ["webapp"]
+  },
+  {
+    "id": 10,
+    "partner": "Greater Valley Community Services",
+    "year": "2023",
+    "course": ["67-373"],
+    "representatives": ["Henderson Tempestt"],
+    "students": ["Jasmine Nie", "Ryan McGrady", "Annie Eng"],
+    "desc": "We wish to set up a Ruby on Rails web application hosted on GitHub that enables secure digital submission of documents from foster parents with caseworkers who will be able to add checklist categories for foster parents to complete. The CMU IS team created a Ruby on Rails app that was deployable on a non static website that allows case workers and foster care parents to submit documents and view when they're due. The impact of the project allowed the organization to make file organization / collection faster and streamlined through converting to digital forms.",
+    "logo": "assets/img/project_logos/spring2023/GVCS.png",
+    "pdf": "assets/img/project_pdfs/spring2023/GVCS.pdf",
+    "tech": ["webapp"]
+  },
+
+  {
+    "id": 11,
+    "partner": "Greater Washington County Food Bank",
+    "year": "2023",
+    "course": ["67-373"],
+    "representatives": ["Cherise Sandrock"],
+    "students": ["Emma Kwan", "Meghana Tera", "Ricky Lee", "Yize Shen"],
+    "desc": "The Greater Washington County Food Bank's mission is to help those who are fighting against hunger. The CMU IS students' role is to help standardize the onboarding process for volunteers and incoming staff. The result was an improved understanding of the food bank's CRM for both staff and volunteers.",
+    "logo": "assets/img/project_logos/spring2023/GWCFB.png",
+    "pdf": "assets/img/project_pdfs/spring2023/GWCFB.pdf",
+    "sdg": ["zerohunger"],
+    "tech": ["userexperience"]
+  },
+
+  {
+    "id": 12,
+    "partner": "Hello Neighbor",
+    "year": "2023",
+    "course": ["67-373"],
+    "representatives": ["Aubrey Parke"],
+    "students": [
+      "Julia Graham",
+      "Miles Maltbia",
+      "Maddie Thai-Tang",
+      "Zach Van Bennekum"
+    ],
+    "desc": "Hello Neighbor is a non-profit organization working to improve the lives of recently resettled refugee and immigrant families by matching them with dedicated neighbors to guide and support them in their new lives. The team of CMU IS students developed a cleaner and more robust system for managing the inflow and outflow of donations to Hello Neighbor and its clients. This system provides cleaner and more accurate information with less manual work, allowing the team at Hello Neighbor to spend more time out in the field working directly with clients.",
+    "logo": "assets/img/project_logos/spring2023/HelloNeighbor.png",
+    "pdf": "assets/img/project_pdfs/spring2023/HelloNeighbor.pdf",
+    "sdg": ["peaceandinclusion"],
+    "tech": ["databasesolution"]
+  },
+
+  {
+    "id": 13,
+    "partner": "Humane Action Pittsburgh",
+    "year": "2023",
+    "course": ["67-373"],
+    "representatives": ["Shannon Dickerson", "Kayla Seifert", "Sabrina Culyba"],
+    "students": ["Esther Bae", "Anita Cheng", "Richelle Guice", "Emily Zhang"],
+    "desc": "Humane Action Pittsburgh (HAP) is a nonprofit organization based in Pittsburgh, Pennsylvania that works with the Pittsburgh community to advocate for animal welfare and climate change. The CMU IS student team created a search feature for HAP's campain ReimagineTakeout, allowing users to see if a takeout item is compostable and if so, how to properly compost the item.",
+    "logo": "assets/img/project_logos/spring2023/HAP.png",
+    "pdf": "assets/img/project_pdfs/spring2023/HAP.pdf",
+    "sdg": ["climateaction"],
+    "tech": ["searchengingeoptimization"]
+  },
+
+  {
+    "id": 14,
+    "partner": "International Free Expression Project",
+    "year": "2023",
+    "course": ["67-373"],
+    "representatives": ["Greg Victor"],
+    "students": ["Jenny Doan", "Katie Lin", "Nicole Xiang"],
+    "desc": "The International Free Expression Project (IFEP) aims to democratize art and removing barriers to free expression by showcasing the work of artists whose voices have been suppressed via a virtual gallery. The CMU IS students researched, interviewed, and designed the virtual gallery, which will help artists display their work from around the world. The virtual gallery design gives artists a channel for community, connection, and support, where they will be able to share their voice through art.",
+    "logo": "assets/img/project_logos/spring2023/IFEP.png",
+    "pdf": "assets/img/project_pdfs/spring2023/IFEP.pdf",
+    "sdg": ["equality"],
+    "tech": ["userexperience"]
+  },
+
+
+
+   
+  {
+    "id": 15,
+    "partner": "Amachi",
+    "year": "2022",
+    "course": ["67-373"],
+    "representatives": ["Anna Hollis", "Nicole Cannon", "Samantha Monks"],
+    "students": ["Doug Heymann", "Philip Wellener", "Adriana Poznanski"],
+    "desc": "Amachi Pittsburgh’s mission is to empower and support youth with incarcerated parents in the local community. The CMU IS student team improved their online presence through a two-pronged approach that includes improving their search engines optimization and user experience. This enables Amachi to reach a larger audience and better support their current clients. ",
+    "logo": "assets/img/project_logos/spring2023/Amachi.png",
+    "pdf": "assets/img/project_pdfs/spring2022/amachi.pdf",
+    "sdg": ["equality"],
+    "tech": ["searchengingeoptimization", "technologystrategy", "userexperience", "webapp"]
+  }
+
+]
