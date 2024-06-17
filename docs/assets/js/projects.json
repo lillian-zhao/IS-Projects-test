@@ -22,8 +22,8 @@
     "representatives": ["Angela Williams"],
     "students": ["Aarav Tanti", "Ellen Fang", "Roshni Surpur"],
     "desc": "We are working with the Charles Street Valley Corporation, a community enrichment non-profit, to enhance their website, implement a newsletter, and publicize the organization. Our solution includes the addition of interactive webpages to the website which allow residents to engage better and automatically send out newsletters to all the members in the community. We aim to increase engagement and communication within the community to solve the organization’s key issues. This adds value by saving their time, increasing efficiency in terms of communication, and getting more residents involved in the community. ",
-    "logo": "../img/project_logos/spring2024/charlesstreet.jpg",
-    "pdf": "../img/project_pdfs/spring2024/charlesstreetareacocsac.pdf",
+    "logo": "assets/img/project_logos/spring2024/charlesstreet.jpg",
+    "pdf": "assets/img/project_pdfs/spring2024/charlesstreetareacocsac.pdf",
     "sdg": ["peaceandinclusion"],
     "tech": ["socialmediapage", "softwareintegration", "technologystrategy", "userexperience", "webapp"]
   },
