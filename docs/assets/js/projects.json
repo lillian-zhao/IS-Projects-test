@@ -9,14 +9,125 @@
     "students": ["Aditya Ganesh", "Bonnie Guo", "Elizabeth Lee"],
     "desc": "Big Brothers Big Sisters of Greater Pittsburgh creates one-to-one mentoring relationships between youth and volunteer mentors. The CMU IS student team developed a tracker for potential mentors to view their progress in the application process.. The initiative will increase applicant retention by offering transparency into the lengthy and complex journey.",
     "logo": "../img/project_logos/spring2024/bigbrothers.png",
-    "pdf": "assets/img/project_pdfs/spring2024/bigbrothersbigsisters.pdf",
-    "sdg": ["quality education", "reduced inequality"],
+    "pdf": "../img/project_pdfs/spring2024/bigbrothersbigsisters.pdf",
+    "sdg": ["qualityeducation", "reducedinequality"],
     "tech": ["webapp"]
   },
 
-
   {
     "id": 2,
+    "partner": "Charles Street Area Council",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Angela Williams"],
+    "students": ["Aarav Tanti", "Ellen Fang", "Roshni Surpur"],
+    "desc": "We are working with the Charles Street Valley Corporation, a community enrichment non-profit, to enhance their website, implement a newsletter, and publicize the organization. Our solution includes the addition of interactive webpages to the website which allow residents to engage better and automatically send out newsletters to all the members in the community. We aim to increase engagement and communication within the community to solve the organization’s key issues. This adds value by saving their time, increasing efficiency in terms of communication, and getting more residents involved in the community. ",
+    "logo": "../img/project_logos/spring2024/charlesstreet.jpg",
+    "pdf": "../img/project_pdfs/spring2024/charlesstreetareacocsac.pdf",
+    "sdg": ["peaceandinclusion"],
+    "tech": ["socialmediapage", "softwareintegration", "technologystrategy", "userexperience", "webapp"]
+  },
+
+  {
+    "id": 3,
+    "partner": "Christopher's Kitchen",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Carol Hesz", "Joanne Klabon"],
+    "students": ["Ke Hao Chen", "Kyle Chen", "Steven Shou"],
+    "desc": "Our core product involves implementing an Excel sheet stored on the shared cloud drive of Christopher’s Kitchen, creating a faster and more accurate method of documenting inventory which saves time and a lot of frustration.",
+    "logo": "../img/project_logos/spring2024/christopherkitchen.jpg",
+    "pdf": "../img/project_pdfs/spring2024/christopherskitchen.pdf",
+    "sdg": ["zerohunger", "promotehealth"],
+    "tech": ["dataanalytics", "technologystrategy", "userexperience"]
+  },
+  
+  {
+    "id": 4,
+    "partner": "CJ Ministry",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Candace Jones"],
+    "students": ["Hanna Luo", "Sara Riyad", "Chase Marshall"],
+    "desc": "To enhance staffing through volunteer recruitment, facilitated by an upgraded website developed on Wix, and a digital marketing initiative through Instagram and Facebook.",
+    "logo": "../img/project_logos/spring2024/cjministry.png",
+    "pdf": "../img/project_pdfs/spring2024/cjministry.pdf",
+    "sdg": ["nopoverty", "zerohunger"],
+    "tech": ["webapp", "socialmediapage", "userexperience"]
+  },
+
+  {
+    "id": 5,
+    "partner": "Project DREaM",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Stephan Wittek"],
+    "students": ["Ryan Huang", "Jonathan Lindstrom", "Kevin Wang", "Juan Pablo Urista"],
+    "desc": "Our client, a professor for the CMU English Department focusing on Digital Humanities and Early and Modern Drama is constantly striving to make advances in his research on early English Literature. He asked us to repair and improve a web app that had become deprecated after the head technical lead on it had passed away. A big issue for researchers is the inconsistency in spelling between different time periods. Our app is a corpus creation tool to query a database of 40,000 normalized texts by keywords, titles, years, and authors to help early English researchers answer the questions they are most interested in.",
+    "logo": "../img/project_logos/spring2024/cmuenglish.png",
+    "pdf": "../img/project_pdfs/spring2024/cmuenglishdepartment.pdf",
+    "sdg": ["qualityeducation"],
+    "tech": ["webapp"]
+  },
+
+  {
+    "id": 6,
+    "partner": "CMU Regional Impact",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Chelsea Blackburn Cohen"],
+    "students": ["Zoe Angell", "Karissa Dunkerley", "Simon Shin"],
+    "desc": "CMU Regional Impact is a university-led initiative that leverages the institution's resources and expertise to broaden CMU’s cultural, economic, and societal impact throughout the Pittsburgh region and the Commonwealth of Pennsylvania. The CMU IS students developed an interactive Tableau dashboard to analyze and communicate CMU’s impact, designed an analytics-backed community impact report template, and performed user testing for current data collection methods. As a result, CMU Regional Impact has the framework to increase initiative visibility, improve data collection methods, and ability to analyze and communicate CMU’s impact to relevant stakeholders.",
+    "logo": "../img/project_logos/spring2024/cmuregional.png",
+    "pdf": "../img/project_pdfs/spring2024/cmuregionalimpact,pdf",
+    "sdg": ["equality", "industryinnovationinfrastructure", "partnershipforgoals", "qualityeducation", "sustainablecities", "workandeconomicgrowth"],
+    "tech": ["dataanalytics", "userexperience", "technologystrategy", "softwareintegration"]
+  },
+
+  {
+    "id": 7,
+    "partner": "Center for Organ Recovery and Education",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Bill DiPlacido", "Casie Heinemann"],
+    "students": ["Anthony Jiang", "Noor Mostafa", "Nicholas Wernink"],
+    "desc": "The example mission is to celebrate and share the joy .  The CMU IS students modernized the software architecture and platforms used by example. The result was improved search engine optimization performance for example.com and driving user traffic to the example website.",
+    "logo": "../img/project_logos/spring2024/coreresearch.png",
+    "pdf": "../img/project_pdfs/spring2024/coreresearchallocation.pdf",
+    "sdg": ["equality", "promotehealth", "qualityeducation", "genderequality"],
+    "tech": ["webapp"]
+  },
+
+  {
+    "id": 8,
+    "partner": "Center for Organ Recovery and Education",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Bruno Mastroianni", "Edward Horne", "Tonya Branch", "David Hoss", "JJ Farringer"],
+    "students": ["Denise Kaur", "Raymond Luo", "Vania Halim"],
+    "desc": "The Center for Organ Recovery & Education (CORE) is a vital organization dedicated to saving and healing lives through organ donation and transplantation. The CMU IS students created a centralized application that automates the creation and deletion of accounts for employee onboarding and offboarding. This reduced the time taken to set up employee accounts by up to 40 hours a month.",
+    "logo": "../img/project_logos/spring2024/coreuseraccounts.jpeg",
+    "pdf": "../img/project_pdfs/spring2024/coreuseraccounts.pdf",
+    "sdg": ["promotehealth"],
+    "tech": ["webapp", "softwareintegration", "technologystrategy"]
+  },
+
+  {
+    "id": 9,
+    "partner": "Dormont Public Library",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Cindy D'Agostino", "Matt Blevins"],
+    "students": ["Bruno Neira", "Joyce Huang", "Julia Liu"],
+    "desc": "Dormont Public Library is a small Pittsburgh based library that serves its neighboring patrons with a large catalog of services and events. To help improve Dormont Public Library's digital outreach, our project helped the library set the foundations for a redesign of their website and craft a social media marketing strategy. We did this by conducting pilot tests, user studies, creating high fidelity wireframes, and created a social media strategy plan.",
+    "logo": "../img/project_logos/spring2024/dormontpubliclibrary.png",
+    "pdf": "../img/project_pdfs/spring2024dormontpubliclibrary.pdf",
+    "sdg": ["qualityeducation"],
+    "tech": ["socialmediapage", "userexperience"]
+  },
+
+  {
+    "id": 35,
     "partner": "",
     "year": "2024",
     "course": ["67-373"],
@@ -25,8 +136,8 @@
      
     ],
     "desc": "",
-    "logo": "",
-    "pdf": "",
+    "logo": "../img/project_logos/spring2024/",
+    "pdf": "../img/project_pdfs/spring2024/",
     "sdg": [""],
     "tech": [""]
   }
