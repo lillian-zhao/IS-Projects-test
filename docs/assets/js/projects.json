@@ -127,7 +127,371 @@
   },
 
   {
+    "id": 10,
+    "partner": "East End Youth Ministry",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Stephanie Johnson"],
+    "students": ["Sanmoy Karmakar", "Sarah Wang", "Serena Yao"],
+    "desc": "Our vision is to develop a comprehensive solution for managing student registration data, integrating past records into a centralized system to automate report generation for regulatory compliance, invoicing, and attendance tracking, ensuring data consistency across all platforms.",
+    "logo": "assets/img/project_logos/spring2024/eastendyouthministry.jpeg",
+    "pdf": "assets/img/project_pdfs/spring2024/eastendyouthministry.pdf",
+    "sdg": ["promotehealth", "qualityeducation"],
+    "tech": ["databasesolution"]
+  },
+
+  {
+    "id": 11,
+    "partner": "Filipino American Association of Pittsburgh",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Lani Mears", "Alisa Quemado", "Tony Manalo", "Sarah Carr"],
+    "students": ["Jocelyn Morning", "Lauren Smith", "Owen Gometz"],
+    "desc": "The Filipino American Association of Pittsburgh (FAAP) is a cultural organization that aims to preserve, promote and perpetuate the Filipino heritage among our members and the general public through cultural, charitable and educational activities. The CMU team created a robust and user-friendly online public directory for business entities owned or recommended by FAAP and Filipino community members. This directory will serve as a comprehensive resource to assist new and existing residents in discovering their options while also boosting local, minority-owned businesses in Western Pennsylvania, Ohio, and West Virginia.",
+    "logo": "assets/img/project_logos/spring2024/filipinoamerican.png",
+    "pdf": "assets/img/project_pdfs/spring2024/filipinoamericanassocofpittsburgh.pdf",
+    "sdg": ["promotehealth", "workandeconomicgrowth", "responsibleconsumption"],
+    "tech": ["databasesolution"]
+  },
+
+  {
+    "id": 12,
+    "partner": "First Tee Pittsburgh",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Paul Coultas"],
+    "students": ["Benjamin Chen", "Will Squibb", "Yuvanshu Agarwal"],
+    "desc": "During bad weather, First Tee Pittsburgh coaches often need to cancel golf classes and must notify the participants as soon as possible, which can be quite an arduous task. To solve this, the CMU IS Student team created a user-friendly application that allows First Tee PIttsburgh coaches to send mass text and email notifications to class participants in case sudden cancellations with just the click of a few buttons.",
+    "logo": "assets/img/project_logos/spring2024/firstteepittsburgh.png",
+    "pdf": "assets/img/project_pdfs/spring2024/firstteepittsburgh.pdf",
+    "sdg": ["equality", "genderequality", "peaceandinclusion", "qualityeducation", "sustainablecities"],
+    "tech": ["api", "softwareintegration", "technologystrategy", "userexperience", "webapp"]
+  },
+
+  {
+    "id": 13,
+    "partner": "Future Kings Mentoring",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Terrell Galloway", "Sean Spencer", "Isreal Williams"],
+    "students": ["Ireoluwa Alarape", "Mattew Leboffe", "Zhiheng Ye"],
+    "desc": "Future Kings Mentoring is dedicated to empowering young Black males to recognize their potential as leaders in their careers, communities, and globally. The CMU IS students utilized the Microsoft Suite to streamline and automate data archiving and operational processes for the organization. This transformation significantly enhanced operational efficiency, improved the onboarding process, and maximized the utilization of available resources, profoundly impacting the organization's functionality and effectiveness.",
+    "logo": "assets/img/project_logos/spring2024/futurekingsmentoring.jpg",
+    "pdf": "assets/img/project_pdfs/spring2024/futurekingsmentoringinc.pdf",
+    "sdg": ["equity", "peaceandinclusion", "qualityeducation"],
+    "tech": ["technologystrategy", "softwareintegration"]
+  },
+
+  {
+    "id": 14,
+    "partner": "Greenfield Community Association",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Christa Jones",  "Isaac Smith"],
+    "students": ["Chloe Chan", "Sherry Chen", "Dhruva Reddy"],
+    "desc": "The Greenfield Community Association is a 501c3 non-profit with the mission to fund, support, develop, and enhance the community spirit, athletic activities, and philanthropy among the residents of Greenfield. The CMU IS students improved upon an existing survey to collect residents' opinions, created dashboards to visualize their opinions, and embedded the dashboards to the GCA website.",
+    "logo": "assets/img/project_logos/spring2024/greenfield.png",
+    "pdf": "assets/img/project_pdfs/spring2024/greenfieldcommunityassoc.pdf",
+    "sdg": ["sustainablecities", "workandeconomicgrowth", "peaceandinclusion"],
+    "tech": ["dataanalytics", "databasesolution", "softwareintegration"]
+  },
+
+  {
+    "id": 15,
+    "partner": "Hello Neighbor",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Danielle Grooms, Blanca Ruiz"],
+    "students": ["Cindy Chen", "Josh Huang", "Jiatong Li"],
+    "desc": "Hello Neighbor's mission is to improve the lives of recently resettled refugee and immigrant families by pairing them with local neighbors who guide and support them as they adjust to life in the U.S. CMU IS students integrated tools into their existing grant management process to streamline task coordination and automate task reminders, and provided documentation for importing data into Salesforce. The development team adopted the tools and feels more prepared for future transition into Salesforce.",
+    "logo": "assets/img/project_logos/spring2024/helloneighbor.png",
+    "pdf": "assets/img/project_pdfs/spring2024/helloneighbor.pdf",
+    "sdg": ["peaceandinclusion"],
+    "tech": ["softwareintegration", "technologystrategy"]
+  },
+
+  {
+    "id": 16,
+    "partner": "Humane Action Pittsburgh: The Plastics Collaborative",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Darrell Payne"],
+    "students": ["Chloe Deng", "Jason Kwok", "Jieun Lee"],
+    "desc": "HAP is a local nonprofit advocating for animal safety and protections, while The Plastics Collaborative, one of many initiatives under the HAP umbrella, is an organization promoting sustainability through the reduction of plastic waste. The CMU IS students re-designed and developed the Plastics Collaborative landing page, implementing new interactive features to encourage awareness of excessive plastic usage. This website provided the organization with a webpage that will be used to raise awareness about plastic waste and increase credibility to relevant stakeholders.",
+    "logo": "assets/img/project_logos/spring2024/humaneaction.png",
+    "pdf": "assets/img/project_pdfs/spring2024/humaneactionpittsburgh.pdf",
+    "sdg": ["climateaction", "responsibleconsumption", "sustainablecities"],
+    "tech": ["userexperience", "technologystrategy"]
+  },
+
+  {
+    "id": 17,
+    "partner": "Innovation Institute for Tomorrow",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Tim Heffernan", "Steve Cutchall"],
+    "students": ["Megan Baker", "Ronit Batchu", "Kaylin Yeoh"],
+    "desc": "II4T offers a comprehensive array of STEM education initiatives aimed at engaging and preparing students for 21st-century careers such as robotics and drones, including skills from computer science and engineering designed to inspire and excite students about STEM fields. The CMU IS student team added a resources tab to their existing website to increase access to valuable resources for students and teachers. Additionally, they provided a process for data collection and analysis so II4T could showcasing their impact with more concrete evidence.",
+    "logo": "assets/img/project_logos/spring2024/ii4told.jpg",
+    "pdf": "assets/img/project_pdfs/spring2024ii4toldinvolvemint.pdf",
+    "sdg": ["industryinnovationinfrastructure", "qualityeducation", "workandeconomicgrowth"],
+    "tech": ["dataanalytics", "userexperience"]
+  },
+
+  {
+    "id": 18,
+    "partner": "Academy of Motion Picture Arts and Sciences",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Margaret Mertz"],
+    "students": ["Sebastian Lu", "Aaron To", "Meghashyam Krishnasamy"],
+    "desc": "In Frame is a project headed by the Academy of Motion Arts Pictures and Sciences that focuses on the presevation of motion picture history, as well as the reassessment and change of how underrepresented material is presented and distributed. The CMU IS students developed an initial database solution and website application to support the hierarchical organization of keywords and terms to perform efficient search on films and figures. This system will be used by the research team at the Academy to help populate their database of film titles, associated cast and crew, academic journals, and keyword categories/terms, and later be adapted to a completely free and online resources for users to educate themselves about the exciting history of underrepresented cinematography.",
+    "logo": "assets/img/project_logos/spring2024/inframecentering.png",
+    "pdf": "assets/img/project_pdfs/spring2024/inframecenteringrepresentation.pdf",
+    "sdg": ["equality", "genderequality", "qualityeducation"],
+    "tech": ["databasesolution", "webapp"]
+  },
+
+  {
+    "id": 19,
+    "partner": "involveMINT",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Daniel Little"],
+    "students": ["Alex Zhu", "Ethan Gutrie", "Timothy Hyun"],
+    "desc": "involveMINT is an organization that incentives and organizes community service through a credit basis. The CMU IS team developed features to improve the community service validation processing through features such as tagging and local form caching. This streamlines the submission process and encourage volunteers to continue serving and recieve credits.",
+    "logo": "assets/img/project_logos/spring2024/involvemintoldinnovationinstitutefortomorrow.png",
+    "pdf": "assets/img/project_pdfs/spring2024/involvemintoldinnovationinstitutefortomorrow.pdf",
+    "sdg": ["sustainablecities", "workandeconomicgrowth"],
+    "tech": ["api", "userexperience", "webapp"]
+  },
+
+  {
+    "id": 20,
+    "partner": "Learning Disabilities Association of Pennsylvania",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Collin Diedrich"],
+    "students": ["Dennis Chen", "Alya Wang", "Emilie Zhou"],
+    "desc": "Our vision is to refine and enhance the directory of affordable service providers so that it will be easier for service providers to join and use the directory. Through design changes and marketing strategies, we will target improving service providers’ experiences with the directory. This will ultimately contribute to the directory’s goal of becoming a place where people can more easily access information and learning disability services in the Pennsylvania area.",
+    "logo": "assets/img/project_logos/spring2024/learningdisabilitiesassocofpennsylvania.png",
+    "pdf": "assets/img/project_pdfs/spring2024/learningdisabilitiesassocofpennsylvania.pdf",
+    "sdg": ["promotehealth", "equality"],
+    "tech": ["databasesolution", "userexperience"]
+  },
+
+  {
+    "id": 21,
+    "partner": "Masters of Maternity",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Aleta Heard, Winter Clay"],
+    "students": ["Emily Xie", "Neha Anumolu", "Rachel Wu"],
+    "desc": "We are working with Masters of Maternity, an organization that aims to connect mothers to maternal specialists and address disparities in maternal health care. However, the organization currently has zero income. Our innovative solution? We plan to integrate a revenue-generating payment system into the organization’s existing platform. We will introduce a pay-per-lead model, a first for maternal websites, where doulas invest a small fee to connect with mothers. This integration not only opens a revenue stream for M.O.M, but it also means expanding services, growing the team, and making a positive impact on more mothers’ and childrens’ lives.",
+    "logo": "assets/img/project_logos/spring2024/mastersofmaternity.png",
+    "pdf": "assets/img/project_pdfs/spring2024/mastersofmaternity.pdf",
+    "sdg": ["equality", "promotehealth"],
+    "tech": ["softwareintegration", "technologystrategy", "webapp", "userexperience"]
+  },
+
+  {
+    "id": 22,
+    "partner": "Mwanakuche Farm",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Abdulkadir Chirambo"],
+    "students": ["Tanner Balluf", "Mimi Chuang", "Kelli Kuramoto"],
+    "desc": "Mwanakuche Farm is a volunteer-driven organization founded and led by the Somali-Bantu community of the Greater Pittsburgh area. They are committed to fostering community through their two agricultural programs: Mwanakuche Community Garden and Mwanakuche Farm. In an effort to support their mission, CMU IS students established an information capturing and management system via Google Form to track volunteer completed tasks and Google Looker Studio to visualize the data in an easily digestible dashboard. This results in enhanced efficieny and oraganization of communication, as well as supports informed decision-making to optimize agricultural programs.",
+    "logo": "assets/img/project_logos/spring2024/mwanakuchefarm.png",
+    "pdf": "assets/img/project_pdfs/spring2024/mwanakuchefarminc.pdf",
+    "sdg": ["zerohunger", "responsibleconsumption"],
+    "tech": ["dataanalytics", "informationkiosk", "userexperience"]
+  },
+
+  {
+    "id": 23,
+    "partner": "Operation Better Block",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Taili Thompson"],
+    "students": ["Adrienne Li", "Clarice Du", "Elaine Wang"],
+    "desc": "Operation Better Block is a non-profit organization that seeks to raise up the Homewood community and greater Pittsburgh area through technical and community development. The CMU IS student team developed a website called Realistic ReEntry for Operation Better Block’s violence prevention initiative which is focused on serving reentering citizens. Now, Operation Better Block can use Realistic ReEntry to provide citizens up-to-date reentry resources and internally manage user interactions such as sending referrals, recording meeting notes, and exporting user data.",
+    "logo": "assets/img/project_logos/spring2024/operationbetterblock.jpg",
+    "pdf": "assets/img/project_pdfs/spring2024/operationbetterblock.pdf",
+    "sdg": ["equality", "peaceandinclusion", "workandeconomicgrowth"],
+    "tech": ["geographicinformationsystem", "webapp", "userexperience"]
+  },
+
+  {
+    "id": 24,
+    "partner": "Pennsylvania Educator Diversity Consortium",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Allyce Pinchback-Johnson"],
+    "students": ["Darius Taylor", "Phyllis Feng", "Prina Doshi"],
+    "desc": "Pennsylvania Educator Diversity Consortium (PEDC) unites individuals, organizations, agencies, and instutions in advocating for diversity and equity in the Pennsylvania education system. The CMU IS team designed and developed a map visualization tool that showcases demographic and resource data in Southwest Pennsylvania. It is Phase 1 of a larger initiative at PEDC to map data for the entire state of Pennsylvania.",
+    "logo": "assets/img/project_logos/spring2024/pennsylvaniaeducation.jpg",
+    "pdf": "assets/img/project_pdfs/spring2024/pennsylvaniaeducationdiversityconsortium.pdf",
+    "sdg": ["equality", "qualityeducation", "peaceandinclusion"],
+    "tech": ["geographicinformationsystem", "dataanalytics"]
+  },
+
+  {
+    "id": 25,
+    "partner": "Pittsburgh Hires Veterans",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Jack Lyden"],
+    "students": ["Rashmi Francis", "Peggy Shen", "Sunny Tang"],
+    "desc": "Pittsburgh Hires Veterans’ mission is to provide support and assistance to U.S. military veterans and their spouses in search of education, training and employment opportunities. The CMU IS students analyzed and optimized the case management system the organization used, particularly by streamlining the manual labor processes associated with their donor database. The result was improving the efficiency of tracking grant statuses and donor information for better business management and data clarity.",
+    "logo": "assets/img/project_logos/spring2024/pittsburghhiresveterans.jpg",
+    "pdf": "assets/img/project_pdfs/spring2024/pittsburghhiresveterans.pdf",
+    "sdg": ["workandeconomicgrowth"],
+    "tech": ["databasesolution", "softwareintegration", "technologystrategy"]
+  },
+
+  {
+    "id": 26,
+    "partner": "Pittsburgh Lutheran United Ministries",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Pastor Brenda Henry", "Keith Devine"],
+    "students": ["Olivia Van Zandt", "Xavier Xia", "Teresa Yang"],
+    "desc": "The Pittsburgh Lutheran United Ministries provides pastoral care and support for 10 full-member congregations, and they foster opportunities for connectivity among individuals, congregations, and communities. As their previous website was difficult to navigate, text-heavy, and outdated, the CMU IS students worked with PLUM to redesign their website into one that is visually appealing, easy to use for those of varying abilities, and easy to maintain for the webmaster, all while continuing to provide the breadth and depth of PLUM’s necessary information and events. By doing so, the new website adds value by creating a more visually appealing website to attract potential new churchgoes, while being a more intuitive website for current members.",
+    "logo": "assets/img/project_logos/spring2024/pittsburghlutheranunitedministriesplum.jpg",
+    "pdf": "assets/img/project_pdfs/spring2024/pittsburghlutheranunitedministriesplum.pdf",
+    "sdg": ["peaceandinclusion"],
+    "tech": ["softwareintegration", "technologystrategy", "userexperience", "webapp"]
+  },
+
+  {
+    "id": 27,
+    "partner": "Professional Women's Network",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Danielle Parson"],
+    "students": ["Huarui Lai", "Ava Givone", "Adeline Wu"],
+    "desc": "PWN aims to connect, engage, and inspire women, so with this as inspiration the CMU team's vision was twofold—to create a seamless digital experience that reflects PWN's brand identity and mission via a more modern website design and also implement a database management software. The aforementioned ultimately made the PWN website more representative of the organization's mission and offerings, and the latter created value from previously under-utilized member data.",
+    "logo": "assets/img/project_logos/spring2024/professionalwomensnetwork.png",
+    "pdf": "assets/img/project_pdfs/spring2024/professionalwomensnetwork.pdf",
+    "sdg": ["genderequality", "sustainablecities"],
+    "tech": ["dataanalytics", "databasesolution", "userexperience"]
+  },
+
+  {
+    "id": 28,
+    "partner": "Protect Penn-Trafford (PT)",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Gillian Graber", "Jim Cirilano", "Emily Nissley"],
+    "students": ["Daniel Chen", "Larissa Tyagi", "Vanessa Lin"],
+    "desc": "Protect Penn-Trafford (PT) is a nonprofit organization committed to defending the legal, environmental, and economic interests of residents in Westmoreland and Allegheny counties against the adverse impacts of oil and gas projects. The organization focuses on litigation support, regulatory advocacy, and community education to ensure adherence to environmental laws. To aid in these efforts, a team of CMU IS students configured a document management system that enhances Protect PT's ability to efficiently store, manage, and query legal documents, bolstering their advocacy initiatives.",
+    "logo": "assets/img/project_logos/spring2024/protectpt.jpg",
+    "pdf": "assets/img/project_pdfs/spring2024/protectpt.pdf",
+    "sdg": ["cleanwatersanitation", "cleanenergy", "lifeonland", "peaceandinclusion", "promotehealth", "responsibleconsumption", "sustainablecities"],
+    "tech": ["databasesolution"]
+  },
+
+  {
+    "id": 29,
+    "partner": "Queens Gambit Chess Institute",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Ashley Lynn Priore"],
+    "students": ["Guanjie Cheng", "Hanah Ryu", "Minjoo Kim"],
+    "desc": "Queens Gambit is a non-profit organization that teaches young students (grades K-12) in low-income areas of Pittsburgh necessary skills to become leaders in the world using strategies of chess. The CMU IS students developed a database solution for Queens Gambit to make record keeping and information sharing to allow for easy populating and automated processes of tracking data. This database will remove the need for repetitive tasks and reduce time for Queens Gambit.",
+    "logo": "assets/img/project_logos/spring2024/queensbambitchessinstitute.png",
+    "pdf": "assets/img/project_pdfs/spring2024/queensgambitchessinstitute.pdf",
+    "sdg": ["equality", "peaceandinclusion", "qualityeducation"],
+    "tech": ["databsesolution"]
+  },
+
+  {
+    "id": 30,
+    "partner": "Sojourner House",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Laura McCurdy, De'netta Benjamin-Miller"],
+    "students": ["Rachel Luo", "Andrew Chung", "Emma Shi"],
+    "desc": "The mission of Sojourner House is offering compassionate, faith-based recovery services to women and their children. The CMU IS student team proposed a new two-sided feature with a new portal on the existing webpage for provider-related information display and a system for staff to record important data that can be directly displayed in the portal immediately. This adds value to both Sojourner House and other providers by removing unnecessary wait times in the intake processes and helping Sojourner House to help people at their maximum capacity.",
+    "logo": "assets/img/project_logos/spring2024/sojournerhouse.png",
+    "pdf": "assets/img/project_pdfs/spring2024/sojournerhouse.pdf",
+    "sdg": ["promotehealth", "peaceandinclusion"],
+    "tech": ["technologystrategy"]
+  },
+
+  {
+    "id": 31,
+    "partner": "Spoons Kitchen Exchange",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Marielle Saums"],
+    "students": ["Sharon Ren", "Helen Zheng", "Tishyaa Chaudhry"],
+    "desc": "Promoting kitchenware sustainability, Spoons Kitchen Exchange facilitates access to high-quality, pre-owned items at affordable prices. The CMU IS team worked on improving the website design, creating a wider customer base, and addressing the inefficiencies of the business. The results were better website navigation and design, a give and sell form, sample student bundles and a detailed marketing plan for Spoons Kitchen Exchange to expand its reach.",
+    "logo": "assets/img/project_logos/spring2024/spoonskitchenexchange.png",
+    "pdf": "assets/img/project_pdfs/spring2024/spoonskitchenexchange.pdf",
+    "sdg": ["sustainablecities", "responsibleconsumption"],
+    "tech": ["userexperience", "technologystrategy", "socialmediapage"]
+  },
+
+  {
+    "id": 32,
+    "partner": "Treasure House Fashion",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Sally Power"],
+    "students": ["Om Patel", "Peter Lu", "Ryan Wong"],
+    "desc": "THF's mission is to promote the dignity and self-esteem of women, especially those who have gone through a significant transition in their life or an impactful crisis.  The CMU IS students developed a custom web application that automated their gift certificate management process. The result was significantly decreased time taken and number of manual errors that occured throughout that process",
+    "logo": "assets/img/project_logos/spring2024/treasurehousefashions.jpg",
+    "pdf": "assets/img/project_pdfs/spring2024/treasurehousefashions.pdf",
+    "sdg": ["promotehealth"],
+    "tech": ["api", "databasesolution", "softwareintegration", "webapp"]
+  },
+
+  {
+    "id": 33,
+    "partner": "Wesley Family Services",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Aaron Richards"],
+    "students": ["Fa Phanachet", "Jonathan Ho", "Ritu Chatterjee"],
+    "desc": "Wesley Family Services's empowers children, adults, and families by providing transformational behavioral healthcare services and support. The CMU IS team built a self-service portal to handle common IT requests with the first feature being implementing timesheet unapproval for managers. The project frees up days worth of IT staff time per week to work on other projects that support the organization's mission.",
+    "logo": "assets/img/project_logos/spring2024/wesleyfamilyservices.jpg",
+    "pdf": "assets/img/project_pdfs/spring2024/wesleyfamilyservices.pdf",
+    "sdg": ["promotehealth", "qualityeducation"],
+    "tech": ["webapp", "informationsecurityrisk", "softwareintegration"]
+  },
+
+  {
+    "id": 34,
+    "partner": "WAAR (Women Against Abusive Relationships)",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Roxanne Epperson"],
+    "students": ["Ariel Kwak", "Grace Liao", "Nitya Girase"],
+    "desc": "WAAR's mission is 'to break the cycle of violence against women and girls and aid in their healing process.' The CMU IS student team created a centralized online database system to store data on participants, interactions with participants, and staff using Airtable to help with the organization's record keeping that was previously done with storage of data in physical file cabinets.",
+    "logo": "assets/img/project_logos/spring2024/womenagainstabusiverelationships.png",
+    "pdf": "assets/img/project_pdfs/spring2024/womenagainstabusiverelationships.pdf",
+    "sdg": ["genderequality", "promotehealth", "workandeconomicgrowth"],
+    "tech": ["databasesolution"]
+  },
+
+  {
     "id": 35,
+    "partner": "Youth Enrichment Services",
+    "year": "2024",
+    "course": ["67-373"],
+    "representatives": ["Deanna Sinex"],
+    "students": ["Alice Nie", "Natasha Akali", "Sen Feng"],
+    "desc": "Youth Enrichment Services (YES) aims to provide socially and economically at-risk youth the opportunity to achieve success through participation in mentorship, education, and enrichment programs. The CMU IS student team implemented a two-part solution: streamlining project management with Monday.com and creating a wiki for standardizing the use of Google Workspace. This project is anticipated to pave the way for enhanced productivity by improving task assignment efficiency, simplifying document accessibility, and tailoring the work environment to meet YES’s specific needs.",
+    "logo": "assets/img/project_logos/spring2024/youthenrichmentservices.png",
+    "pdf": "assets/img/project_pdfs/spring2024/youthenrichmentservices.pdf",
+    "sdg": ["promotehealth", "equalityeducation", "workandeconomicgrowth", "reduceinequality"],
+    "tech": ["webapp", "mobapp"]
+  },
+
+  {
+    "id": 1000,
     "partner": "",
     "year": "2024",
     "course": ["67-373"],
