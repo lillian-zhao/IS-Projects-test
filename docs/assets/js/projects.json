@@ -8,8 +8,8 @@
     "representatives": ["Jason Dix"],
     "students": ["Aditya Ganesh", "Bonnie Guo", "Elizabeth Lee"],
     "desc": "Big Brothers Big Sisters of Greater Pittsburgh creates one-to-one mentoring relationships between youth and volunteer mentors. The CMU IS student team developed a tracker for potential mentors to view their progress in the application process.. The initiative will increase applicant retention by offering transparency into the lengthy and complex journey.",
-    "logo": "assets/img/project_logos/spring2024/bigbrothers",
-    "pdf": "assets/img/project_pdfs/spring2024/bigbrothersbigsisters",
+    "logo": "assets/img/project_logos/spring2024/bigbrothers.png",
+    "pdf": "assets/img/project_pdfs/spring2024/bigbrothersbigsisters.pdf",
     "sdg": ["quality education", "reduced inequality"],
     "tech": ["webapp"]
   },
