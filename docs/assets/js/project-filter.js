@@ -143,6 +143,7 @@ $(document).ready(function () {
         });
         console.log("This is the logging of year")
         console.log(year)
+        console.log("This is the logging of object keys")
 
         console.log(Object.keys(projectsByYear))
 
