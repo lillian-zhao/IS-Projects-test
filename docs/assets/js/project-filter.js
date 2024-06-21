@@ -141,11 +141,14 @@ $(document).ready(function () {
           }
           projectsByYear[year].push(project);
         });
+        console.log("This is the logging of year")
         console.log(year)
 
         // Render projects with headings
         Object.keys(projectsByYear).forEach((year) => {
           const yearProjects = projectsByYear[year];
+          console.log("This is the logging of year projects")
+
           console.log(yearProjects)
           if (yearProjects.length > 0) {
             // Append year heading
