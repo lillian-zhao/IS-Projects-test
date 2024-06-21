@@ -193,7 +193,7 @@ $(document).ready(function () {
                 project?.logo
               );
               companyWrapper.append(imgElement);
-              $companyWrapperContainer.append(companyWrapper);
+              $companyWrapperContainer.prepend(companyWrapper);
             });
           }
         });
