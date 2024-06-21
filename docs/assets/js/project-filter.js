@@ -145,10 +145,12 @@ $(document).ready(function () {
         console.log(year)
         console.log("This is the logging of object keys")
 
-        console.log(Object.keys(projectsByYear))
+        yearsList = (Object.keys(projectsByYear)).reverse()
+
+        console.log(yearsList)
 
         // Render projects with headings
-        Object.keys(projectsByYear).forEach((year) => {
+        yearsList.forEach((year) => {
           const yearProjects = projectsByYear[year];
           console.log("This is the logging of year projects")
 
