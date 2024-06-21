@@ -141,6 +141,7 @@ $(document).ready(function () {
           }
           projectsByYear[year].push(project);
         });
+        console.log(year)
 
         // Render projects with headings
         Object.keys(projectsByYear).forEach((year) => {
