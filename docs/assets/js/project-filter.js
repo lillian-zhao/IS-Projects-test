@@ -141,20 +141,13 @@ $(document).ready(function () {
           }
           projectsByYear[year].push(project);
         });
-        console.log("This is the logging of year")
-        console.log(year)
-        console.log("This is the logging of reverse object keys")
-
+        
+        //Reverse the list here to make sure that the most recent projects are at the top and oldest at the bottom
         yearsList = (Object.keys(projectsByYear)).reverse()
-
-        console.log(yearsList)
 
         // Render projects with headings
         yearsList.forEach((year) => {
           const yearProjects = projectsByYear[year];
-          console.log("This is the logging of year projects")
-
-          console.log(yearProjects)
           if (yearProjects.length > 0) {
             // Append year heading
             $companyWrapperContainer.append(
