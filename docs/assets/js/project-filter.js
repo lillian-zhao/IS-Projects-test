@@ -125,8 +125,6 @@ $(document).ready(function () {
           // Auto-detect year from the 'year' field
           if (project.year) {
             year = Array.isArray(project.year) ? project.year[0] : project.year;
-            console.log(year)
-            year.sort(function(a, b){return b-a});
             // Extract year from date string (if applicable)
             if (typeof year === "string" && year.match(/^\d{4}$/)) {
               year = year.substring(0, 4);
@@ -147,6 +145,7 @@ $(document).ready(function () {
         // Render projects with headings
         Object.keys(projectsByYear).forEach((year) => {
           const yearProjects = projectsByYear[year];
+          console.log(yearProjects)
           if (yearProjects.length > 0) {
             // Append year heading
             $companyWrapperContainer.append(
