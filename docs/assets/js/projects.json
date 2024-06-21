@@ -1,6 +1,232 @@
 [
-
-  {
+    {
+      "id": 36,
+      "partner": "Zero Waste Pennsylvania",
+      "year": "2015",
+      "course": ["67-373"],
+      "representatives": ["Teresa Bradley, Ross Hirschfeld, Justin Stockdale"],
+      "students": ["Achal Channarasappa", "Ryan Donegan", "Katherine Du", "Maggie Li"],
+      "desc": "Working with PRC and ZWPA, we hope to implement a web application to facilitate data entry, management, and storage in regards to the waste auditing process. In particular, we aim to expedite the Initial Site Visit Questionnaire by allowing direct input, as well as enabling a web option that allows ZWPA staff members to quickly complete necessary fields. ZWPA auditors will also be able to quickly and digitally complete waste audit forms representative of current paper spreadsheets. Audit information will then be downloadable and available for instant analysis. Complementing all of these features is an organized system of note-taking and tracking that can be associated with specific projects and clients.",
+      "logo": "assets/img/project_logos/spring2015/36.jpg",
+      "pdf": "assets/img/project_pdfs/spring2024/36.pdf",
+      "sdg": [""],
+      "tech": [""]
+    },
+  
+    {
+      "id": 37,
+      "partner": "VitaeFly",
+      "year": "2015",
+      "course": ["67-373"],
+      "representatives": ["Brian Mangone"],
+      "students": ["Adam Xiaotian Cao", "Julia Harmison", "Aayush Tekriwal", "Jenny Yang"],
+      "desc": "Our vision for this project was to create an iOS mobile application that allowed students and recruiters to manage and create connections during career fairs. More specifically, we wanted to create a queuing system to be used at career fairs. Similar to waiting in line at a restaurant, the student would be able put themselves on a queue for a particular recruiter at a company. When it is their time to have a conversation with the recruiter, the recruiter can easily view their resume on the application and leave real-time feedback about their conversation and prospects for potential opportunities with the company. Student and companies can easily sort through the interactions they had throughout the day. Through the use of VitaeFly, the users are able to save time and paper so that they can spend their time making meaningful connections at the career fair instead of waiting in line.",
+      "logo": "assets/img/project_logos/spring2015/37.jpg",
+      "pdf": "assets/img/project_pdfs/spring2024/37.pdf",
+      "sdg": [""],
+      "tech": [""]
+    },
+  
+    {
+      "id": 38,
+      "partner": "University of Pittsburgh School of Medicine",
+      "year": "2015",
+      "course": ["67-373"],
+      "representatives": ["Annerose Berndt"],
+      "students": ["Sanika Natu", "Skylar Weaver", "Akash Khanolkar", "Serena Chen"],
+      "desc": "We are proposing to develop and test the current Ruby on Rails system in order to allow Berndt Lab researchers the opportunity to share, collaborate, and analyze their data. The result of this project will create a usable, well-tested and sustainable system so that researchers can easily upload their research data onto the system, perform analyses for research purposes and finally share this data. By providing various components to the system like file upload functionality to easily upload CSV data files, statistical analysis to formulate reports and graphs of the data, and social media features to facilitate collaboration, the project will ensure that researchers can increase efficiency of their 13 research processes. We are aiming to repair the current system and get the system to a deployable state by May.",
+      "logo": "assets/img/project_logos/spring2015/38.jpg",
+      "pdf": "assets/img/project_pdfs/spring2015/38.pdf",
+      "sdg": [""],
+      "tech": [""]
+    },
+  
+    {
+      "id": 39,
+      "partner": "The Christian and Missionary Alliance",
+      "year": "2015",
+      "course": ["67-373"],
+      "representatives": ["Tom Reay"],
+      "students": ["Ian Betancourt", "Melinda Lin", "Nathan Oh", "Theophilus Onime"],
+      "desc": "Our project seeks to provide the ability for an area admin like Tom to perform all the actions necessary to administer the record-keeping web application for WPA Bible Quizzing, biblequizstats.org. We aim to fill the gaps in the web interface and enable users with proper login credentials to perform their needed tasks which once required use of the command line. For Bible Quizzing participants, our solution allows monitoring of their quizzing results. For the students’ friends and relatives, our solution enable them to see students’ Bible Quizzing results. For 5 area administrators, our solution provides them the ability to input scoring and quiz information into the database without specialized technical knowledge.",
+      "logo": "assets/img/project_logos/spring2015/39.jpg",
+      "pdf": "assets/img/project_pdfs/spring2015/39.pdf",
+      "sdg": [""],
+      "tech": [""]
+    },
+  
+    {
+      "id": 40,
+      "partner": "The Bridge API",
+      "year": "2015",
+      "course": ["67-373"],
+      "representatives": ["Elizabeth Rapoport"],
+      "students": ["Jake Correa", "Melanie Freeman", "Benjamin Lam", "Aditi Sarkar"],
+      "desc": "We planned the design and development of a new API using Ruby on Rails custom built for the CMU Student Activities Office that serves as an authentication middleware between developers on campus and the existing API. Instead of handing out the master key, applicants will receive their own key with specific permissions determined by our client, the Assistant Director of Student Activities. At a high level, our system will have a front-end website where users sign on and use a text based form to request user keys for themselves. Key requests need to be approved by a list of staff approvers, who can leave comments and assign permissions to each application. Successful 7 implementation will remove barriers in allowing student developers on campus to create meaningful applications relevant to Carnegie Mellon’s student activities and events and provide value to the campus community, while maintaining the security of the information on the Bridge.",
+      "logo": "assets/img/project_logos/spring2015/40.jpg",
+      "pdf": "assets/img/project_pdfs/spring2015/40.pdf",
+      "sdg": [""],
+      "tech": [""]
+    },
+  
+    {
+      "id": 41,
+      "partner": "Six Degrees of Francis Bacon",
+      "year": "2015",
+      "course": ["67-373"],
+      "representatives": ["Christopher Warren", "Jessica Otis"],
+      "students": ["Audrey Alpizar", "Sherry Chen", "Tommy Hung", "Sky Kaye"],
+      "desc": "Improve the user’s experience to conform to performance expectations and incentivize the user to return to the site in the future frequently. The goal for this project is to elevate the current developing application to a system that encourages users to return to the site, become curious about the time period, seek to contribute and leverage the system to independently 11 conducted research. We believe the most value can be added through improving the user experience by fixing deployment issues and running user experience testing because these are the most critical factors in user retention.",
+      "logo": "assets/img/project_logos/spring2015/41.jpg",
+      "pdf": "assets/img/project_pdfs/spring2015/41.pdf",
+      "sdg": [""],
+      "tech": [""]
+    },
+  
+    {
+      "id": 42,
+      "partner": "Pittsburgh Youth Chorus",
+      "year": "2015",
+      "course": ["67-373"],
+      "representatives": ["Carley Noel Black", "Ewina French", "Brian Yordnoff"],
+      "students": ["Chris Compendio", "Kang Jun Park", "Sam Walczak"],
+      "desc": "The student team’s vision was simplifying the existing information structure and creating a user friendly website. By reorganizing the complicated information structure of the original website, the team would enhance clarity and information coordination. By doing so, the team aimed to strengthen the organization’s brand so that visitors can have clear understanding of Pittsburgh Youth Chorus’s image and purpose. In order to satisfy such vision and create sustainability, the team decided to implement WordPress, a content management system that is widely-used. WordPress allows anybody to easily work with websites, even with no programming experience. In addition, it offers numerous features, which 29 meet different needs such as e-commerce and search engine optimization. In summary, the project’s vision was to create a website which is user-friendly not only to visitors, but also to future administrators.",
+      "logo": "assets/img/project_logos/spring2015/42.jpg",
+      "pdf": "assets/img/project_pdfs/spring2024/42.pdf",
+      "sdg": [""],
+      "tech": [""]
+    },
+  
+    {
+      "id": 43,
+      "partner": "Pittsburgh Kindness Initiative",
+      "year": "2015",
+      "course": ["67-373"],
+      "representatives": ["Larry Gioia", "Kevin Bright", "Bert Dorazio"],
+      "students": ["Lamis AL-Agamy", "Gale Bonker", "Annie Chen", "Raksha Rao"],
+      "desc": "Our vision statement is to spread kindness throughout Pittsburgh by developing a website for the Pittsburgh Kindness Initiative with kindness card tracking capabilities. Our clients would eventually like to extend their impact beyond the city by inspiring everyone to spread kindness.",
+      "logo": "assets/img/project_logos/spring2015/43.jpg",
+      "pdf": "assets/img/project_pdfs/spring2015/43.pdf",
+      "sdg": [""],
+      "tech": [""]
+    },
+  
+    {
+      "id": 44,
+      "partner": "Phipps Conservatory",
+      "year": "2015",
+      "course": ["67-373"],
+      "representatives": ["Mary DeMars", "Bob Mermelstein"],
+      "students": ["Kevin Chiu", "Ian Go", "Matthew Nielsen", "Peter Podneisinski"],
+      "desc": "In today’s fast-paced world most Americans carry a smartphone everywhere they go. Smartphones provide a platform for mobile apps that are easy to use and contain rich information. Additionally, smartphones are rarely left at home and they do not wear out like paper. The goal of the Phipps Conservatory Member Card App was to design, develop, and deploy a smart replacement for Phipps’ paper member cards. The app would not only provide an electronic member card, but give members the ability to change their information, see recent news, and download smartphone wallpapers.",
+      "logo": "assets/img/project_logos/spring2015/44.jpg",
+      "pdf": "assets/img/project_pdfs/spring2024/44.pdf",
+      "sdg": [""],
+      "tech": [""]
+    },
+  
+    {
+      "id": 45,
+      "partner": "Marketing for Entrepreneurship",
+      "year": "2015",
+      "course": ["67-373"],
+      "representatives": ["Dave Mawhinney", "Bob Blattberg"],
+      "students": ["Nicholas Gasbarro", "Justin Hilliard", "Zehni Khairullah", "Daniel Shlyuger"],
+      "desc": "This solution will benefit the course instructors, as it enables them to create a larger and more engaged alumni community, by giving alumni access to valuable course content. This expanded community is a key goal for the CIE. This will also benefit the course administrators, as it saves them from the laborious process of manually creating accounts for each student. Finally, it will benefit the alumni community, as it gives them access and keeps them engaged. Our vision for the project evolved over time from a custom solution into a workflow that allowed our clients to continue using Canvas, led by our client’s desire for maintainability.",
+      "logo": "assets/img/project_logos/spring2015/45.jpg",
+      "pdf": "assets/img/project_pdfs/spring2024/45.pdf",
+      "sdg": [""],
+      "tech": [""]
+    },
+  
+    {
+      "id": 46,
+      "partner": "Homeless Children's Education Fund",
+      "year": "2015",
+      "course": ["67-373"],
+      "representatives": [""],
+      "students": [
+       
+      ],
+      "desc": "",
+      "logo": "assets/img/project_logos/spring2015/46.jpg",
+      "pdf": "assets/img/project_pdfs/spring2015/",
+      "sdg": [""],
+      "tech": [""]
+    },
+  
+    {
+      "id": 47,
+      "partner": "Family Tyes",
+      "year": "2015",
+      "course": ["67-373"],
+      "representatives": ["Paul Hindes", "Bill Stein"],
+      "students": ["Angela M. Liu", "Laura A. Lodewyk", "Ming Y. Wu"],
+      "desc": "Family Tyes needed the ability to demonstrate student improvement and learning to funders, as well as tell a story about their impact on the lives of participants. To accomplish this, Tech Tyes decided to extend the functionality of the existing Family Tyes Tracking System to collect and analyze data about students. In particular, we implemented a checkpoint system that collected data such as student demographics, student learning outcomes (pre-test and post-test results), individual reflections/comments on the program, and other quantitative and qualitative data points. This includes displaying summary data such as total number of program participants, demographic breakdown of participants, and how participants scored on the pre-test versus the post-test, etc. For 25 Family Tyes, this data analytics/visualization implementation will allow them to provide solid evidence of their impact on the community and aid in their appeals for more funding.",
+      "logo": "assets/img/project_logos/spring2015/47.jpg",
+      "pdf": "assets/img/project_pdfs/spring2015/47.pdf",
+      "sdg": [""],
+      "tech": [""]
+    },
+  
+    {
+      "id": 48,
+      "partner": "Center for Building Performance and Diagnostics",
+      "year": "2015",
+      "course": ["67-373"],
+      "representatives": ["Azizan Aziz", "Betrand Lasternas"],
+      "students": ["Swathi Anand", "Clara SeoHyun Shim", "Ankur Toshniwal", "Leo Ying"],
+      "desc": "In an effort to fulfill CBPD’s goals, our initial project vision was to conduct surveys and interviews on our key stakeholders: students, faculty and staff, Facilities Management Services (FMS) to get their opinions on issues related to campus energy consumption and future efforts to conserve energy on-campus. After the research phase, we would analyze our results and brainstorm the best technological solution to resolve CBPD’s problem. We would hope to come up with a sufficient number of use cases for our technological solution and explore ways in which the student body can interact with it to see campus energy consumption and file complaints to FMS.",
+      "logo": "assets/img/project_logos/spring2015/48.jpg",
+      "pdf": "assets/img/project_pdfs/spring2024/48.pdf",
+      "sdg": [""],
+      "tech": [""]
+    },
+  
+    {
+      "id": 49,
+      "partner": "Best of the Batch Foundation",
+      "year": "2015",
+      "course": ["67-373"],
+      "representatives": ["Latasha Wilson-Batch"],
+      "students": ["Roei Curi-Hoory", "Pranita Ramakrishnan", "Siddarth Sivakumar", "Allison Wilson"],
+      "desc": "The primary goal of this project was to ensure that the registration process for all parties shifted from a paper-based system to an electronic one. To do so, we redesigned the existing application infrastructure and developed a new comprehensive application. After learning about issues faced during the 2014 registration and speaking with both the client and former team, our project vision was also aimed towards bolstering the features of the existing system and developing new features to improve the experience for all stakeholders.",
+      "logo": "assets/img/project_logos/spring2015/49.jpg",
+      "pdf": "assets/img/project_pdfs/spring2024/49.pdf",
+      "sdg": [""],
+      "tech": [""]
+    },
+  
+    {
+      "id": 50,
+      "partner": "Accountability",
+      "year": "2015",
+      "course": ["67-373"],
+      "representatives": ["Raul Figueroa"],
+      "students": ["Alice Borie", "Cindy Lai", "Sangha Lee", "Duncn McIsaac"],
+      "desc": "The team built a mobile friendly web application that construction industry workers can use as a means for quality control. This application forces engineers and quality assurance specialists to complete structural tests on individual building components. The application makes this information available to all users associated to a project and helps the project owner from being blindsided about potential building collapse risks. The application the team built is comprised of a strong visual front end so that engineers would have no difficulties using the system. The system is designed in such a way to prevent cheating when importing project information and completing tests. With this application, construction professionals are able to see which engineers and architects have a history of safely constructed buildings.",
+      "logo": "assets/img/project_logos/spring2015/50.jpg",
+      "pdf": "assets/img/project_pdfs/spring2015/50.pdf",
+      "sdg": [""],
+      "tech": [""]
+    },
+  
+    {
+      "id": 1000,
+      "partner": "",
+      "year": "2015",
+      "course": ["67-373"],
+      "representatives": [""],
+      "students": [
+       
+      ],
+      "desc": "",
+      "logo": "assets/img/project_logos/spring2024/",
+      "pdf": "assets/img/project_pdfs/spring2024/",
+      "sdg": [""],
+      "tech": [""]
+    },
+    {
     "id": 1,
     "partner": "Big Brothers Big Sisters of Greater Pittsburgh",
     "year": "2024",
@@ -488,233 +714,5 @@
     "pdf": "assets/img/project_pdfs/spring2024/youthenrichmentservices.pdf",
     "sdg": ["promotehealth", "equalityeducation", "workandeconomicgrowth", "reduceinequality"],
     "tech": ["webapp", "mobapp"]
-  },
-
-  {
-    "id": 36,
-    "partner": "Zero Waste Pennsylvania",
-    "year": "2015",
-    "course": ["67-373"],
-    "representatives": ["Teresa Bradley, Ross Hirschfeld, Justin Stockdale"],
-    "students": ["Achal Channarasappa", "Ryan Donegan", "Katherine Du", "Maggie Li"],
-    "desc": "Working with PRC and ZWPA, we hope to implement a web application to facilitate data entry, management, and storage in regards to the waste auditing process. In particular, we aim to expedite the Initial Site Visit Questionnaire by allowing direct input, as well as enabling a web option that allows ZWPA staff members to quickly complete necessary fields. ZWPA auditors will also be able to quickly and digitally complete waste audit forms representative of current paper spreadsheets. Audit information will then be downloadable and available for instant analysis. Complementing all of these features is an organized system of note-taking and tracking that can be associated with specific projects and clients.",
-    "logo": "assets/img/project_logos/spring2015/36.jpg",
-    "pdf": "assets/img/project_pdfs/spring2024/36.pdf",
-    "sdg": [""],
-    "tech": [""]
-  },
-
-  {
-    "id": 37,
-    "partner": "VitaeFly",
-    "year": "2015",
-    "course": ["67-373"],
-    "representatives": ["Brian Mangone"],
-    "students": ["Adam Xiaotian Cao", "Julia Harmison", "Aayush Tekriwal", "Jenny Yang"],
-    "desc": "Our vision for this project was to create an iOS mobile application that allowed students and recruiters to manage and create connections during career fairs. More specifically, we wanted to create a queuing system to be used at career fairs. Similar to waiting in line at a restaurant, the student would be able put themselves on a queue for a particular recruiter at a company. When it is their time to have a conversation with the recruiter, the recruiter can easily view their resume on the application and leave real-time feedback about their conversation and prospects for potential opportunities with the company. Student and companies can easily sort through the interactions they had throughout the day. Through the use of VitaeFly, the users are able to save time and paper so that they can spend their time making meaningful connections at the career fair instead of waiting in line.",
-    "logo": "assets/img/project_logos/spring2015/37.jpg",
-    "pdf": "assets/img/project_pdfs/spring2024/37.pdf",
-    "sdg": [""],
-    "tech": [""]
-  },
-
-  {
-    "id": 38,
-    "partner": "University of Pittsburgh School of Medicine",
-    "year": "2015",
-    "course": ["67-373"],
-    "representatives": ["Annerose Berndt"],
-    "students": ["Sanika Natu", "Skylar Weaver", "Akash Khanolkar", "Serena Chen"],
-    "desc": "We are proposing to develop and test the current Ruby on Rails system in order to allow Berndt Lab researchers the opportunity to share, collaborate, and analyze their data. The result of this project will create a usable, well-tested and sustainable system so that researchers can easily upload their research data onto the system, perform analyses for research purposes and finally share this data. By providing various components to the system like file upload functionality to easily upload CSV data files, statistical analysis to formulate reports and graphs of the data, and social media features to facilitate collaboration, the project will ensure that researchers can increase efficiency of their 13 research processes. We are aiming to repair the current system and get the system to a deployable state by May.",
-    "logo": "assets/img/project_logos/spring2015/38.jpg",
-    "pdf": "assets/img/project_pdfs/spring2015/38.pdf",
-    "sdg": [""],
-    "tech": [""]
-  },
-
-  {
-    "id": 39,
-    "partner": "The Christian and Missionary Alliance",
-    "year": "2015",
-    "course": ["67-373"],
-    "representatives": ["Tom Reay"],
-    "students": ["Ian Betancourt", "Melinda Lin", "Nathan Oh", "Theophilus Onime"],
-    "desc": "Our project seeks to provide the ability for an area admin like Tom to perform all the actions necessary to administer the record-keeping web application for WPA Bible Quizzing, biblequizstats.org. We aim to fill the gaps in the web interface and enable users with proper login credentials to perform their needed tasks which once required use of the command line. For Bible Quizzing participants, our solution allows monitoring of their quizzing results. For the students’ friends and relatives, our solution enable them to see students’ Bible Quizzing results. For 5 area administrators, our solution provides them the ability to input scoring and quiz information into the database without specialized technical knowledge.",
-    "logo": "assets/img/project_logos/spring2015/39.jpg",
-    "pdf": "assets/img/project_pdfs/spring2015/39.pdf",
-    "sdg": [""],
-    "tech": [""]
-  },
-
-  {
-    "id": 40,
-    "partner": "The Bridge API",
-    "year": "2015",
-    "course": ["67-373"],
-    "representatives": ["Elizabeth Rapoport"],
-    "students": ["Jake Correa", "Melanie Freeman", "Benjamin Lam", "Aditi Sarkar"],
-    "desc": "We planned the design and development of a new API using Ruby on Rails custom built for the CMU Student Activities Office that serves as an authentication middleware between developers on campus and the existing API. Instead of handing out the master key, applicants will receive their own key with specific permissions determined by our client, the Assistant Director of Student Activities. At a high level, our system will have a front-end website where users sign on and use a text based form to request user keys for themselves. Key requests need to be approved by a list of staff approvers, who can leave comments and assign permissions to each application. Successful 7 implementation will remove barriers in allowing student developers on campus to create meaningful applications relevant to Carnegie Mellon’s student activities and events and provide value to the campus community, while maintaining the security of the information on the Bridge.",
-    "logo": "assets/img/project_logos/spring2015/40.jpg",
-    "pdf": "assets/img/project_pdfs/spring2015/40.pdf",
-    "sdg": [""],
-    "tech": [""]
-  },
-
-  {
-    "id": 41,
-    "partner": "Six Degrees of Francis Bacon",
-    "year": "2015",
-    "course": ["67-373"],
-    "representatives": ["Christopher Warren", "Jessica Otis"],
-    "students": ["Audrey Alpizar", "Sherry Chen", "Tommy Hung", "Sky Kaye"],
-    "desc": "Improve the user’s experience to conform to performance expectations and incentivize the user to return to the site in the future frequently. The goal for this project is to elevate the current developing application to a system that encourages users to return to the site, become curious about the time period, seek to contribute and leverage the system to independently 11 conducted research. We believe the most value can be added through improving the user experience by fixing deployment issues and running user experience testing because these are the most critical factors in user retention.",
-    "logo": "assets/img/project_logos/spring2015/41.jpg",
-    "pdf": "assets/img/project_pdfs/spring2015/41.pdf",
-    "sdg": [""],
-    "tech": [""]
-  },
-
-  {
-    "id": 42,
-    "partner": "Pittsburgh Youth Chorus",
-    "year": "2015",
-    "course": ["67-373"],
-    "representatives": ["Carley Noel Black", "Ewina French", "Brian Yordnoff"],
-    "students": ["Chris Compendio", "Kang Jun Park", "Sam Walczak"],
-    "desc": "The student team’s vision was simplifying the existing information structure and creating a user friendly website. By reorganizing the complicated information structure of the original website, the team would enhance clarity and information coordination. By doing so, the team aimed to strengthen the organization’s brand so that visitors can have clear understanding of Pittsburgh Youth Chorus’s image and purpose. In order to satisfy such vision and create sustainability, the team decided to implement WordPress, a content management system that is widely-used. WordPress allows anybody to easily work with websites, even with no programming experience. In addition, it offers numerous features, which 29 meet different needs such as e-commerce and search engine optimization. In summary, the project’s vision was to create a website which is user-friendly not only to visitors, but also to future administrators.",
-    "logo": "assets/img/project_logos/spring2015/42.jpg",
-    "pdf": "assets/img/project_pdfs/spring2024/42.pdf",
-    "sdg": [""],
-    "tech": [""]
-  },
-
-  {
-    "id": 43,
-    "partner": "Pittsburgh Kindness Initiative",
-    "year": "2015",
-    "course": ["67-373"],
-    "representatives": ["Larry Gioia", "Kevin Bright", "Bert Dorazio"],
-    "students": ["Lamis AL-Agamy", "Gale Bonker", "Annie Chen", "Raksha Rao"],
-    "desc": "Our vision statement is to spread kindness throughout Pittsburgh by developing a website for the Pittsburgh Kindness Initiative with kindness card tracking capabilities. Our clients would eventually like to extend their impact beyond the city by inspiring everyone to spread kindness.",
-    "logo": "assets/img/project_logos/spring2015/43.jpg",
-    "pdf": "assets/img/project_pdfs/spring2015/43.pdf",
-    "sdg": [""],
-    "tech": [""]
-  },
-
-  {
-    "id": 44,
-    "partner": "Phipps Conservatory",
-    "year": "2015",
-    "course": ["67-373"],
-    "representatives": ["Mary DeMars", "Bob Mermelstein"],
-    "students": ["Kevin Chiu", "Ian Go", "Matthew Nielsen", "Peter Podneisinski"],
-    "desc": "In today’s fast-paced world most Americans carry a smartphone everywhere they go. Smartphones provide a platform for mobile apps that are easy to use and contain rich information. Additionally, smartphones are rarely left at home and they do not wear out like paper. The goal of the Phipps Conservatory Member Card App was to design, develop, and deploy a smart replacement for Phipps’ paper member cards. The app would not only provide an electronic member card, but give members the ability to change their information, see recent news, and download smartphone wallpapers.",
-    "logo": "assets/img/project_logos/spring2015/44.jpg",
-    "pdf": "assets/img/project_pdfs/spring2024/44.pdf",
-    "sdg": [""],
-    "tech": [""]
-  },
-
-  {
-    "id": 45,
-    "partner": "Marketing for Entrepreneurship",
-    "year": "2015",
-    "course": ["67-373"],
-    "representatives": ["Dave Mawhinney", "Bob Blattberg"],
-    "students": ["Nicholas Gasbarro", "Justin Hilliard", "Zehni Khairullah", "Daniel Shlyuger"],
-    "desc": "This solution will benefit the course instructors, as it enables them to create a larger and more engaged alumni community, by giving alumni access to valuable course content. This expanded community is a key goal for the CIE. This will also benefit the course administrators, as it saves them from the laborious process of manually creating accounts for each student. Finally, it will benefit the alumni community, as it gives them access and keeps them engaged. Our vision for the project evolved over time from a custom solution into a workflow that allowed our clients to continue using Canvas, led by our client’s desire for maintainability.",
-    "logo": "assets/img/project_logos/spring2015/45.jpg",
-    "pdf": "assets/img/project_pdfs/spring2024/45.pdf",
-    "sdg": [""],
-    "tech": [""]
-  },
-
-  {
-    "id": 46,
-    "partner": "Homeless Children's Education Fund",
-    "year": "2015",
-    "course": ["67-373"],
-    "representatives": [""],
-    "students": [
-     
-    ],
-    "desc": "",
-    "logo": "assets/img/project_logos/spring2015/46.jpg",
-    "pdf": "assets/img/project_pdfs/spring2015/",
-    "sdg": [""],
-    "tech": [""]
-  },
-
-  {
-    "id": 47,
-    "partner": "Family Tyes",
-    "year": "2015",
-    "course": ["67-373"],
-    "representatives": ["Paul Hindes", "Bill Stein"],
-    "students": ["Angela M. Liu", "Laura A. Lodewyk", "Ming Y. Wu"],
-    "desc": "Family Tyes needed the ability to demonstrate student improvement and learning to funders, as well as tell a story about their impact on the lives of participants. To accomplish this, Tech Tyes decided to extend the functionality of the existing Family Tyes Tracking System to collect and analyze data about students. In particular, we implemented a checkpoint system that collected data such as student demographics, student learning outcomes (pre-test and post-test results), individual reflections/comments on the program, and other quantitative and qualitative data points. This includes displaying summary data such as total number of program participants, demographic breakdown of participants, and how participants scored on the pre-test versus the post-test, etc. For 25 Family Tyes, this data analytics/visualization implementation will allow them to provide solid evidence of their impact on the community and aid in their appeals for more funding.",
-    "logo": "assets/img/project_logos/spring2015/47.jpg",
-    "pdf": "assets/img/project_pdfs/spring2015/47.pdf",
-    "sdg": [""],
-    "tech": [""]
-  },
-
-  {
-    "id": 48,
-    "partner": "Center for Building Performance and Diagnostics",
-    "year": "2015",
-    "course": ["67-373"],
-    "representatives": ["Azizan Aziz", "Betrand Lasternas"],
-    "students": ["Swathi Anand", "Clara SeoHyun Shim", "Ankur Toshniwal", "Leo Ying"],
-    "desc": "In an effort to fulfill CBPD’s goals, our initial project vision was to conduct surveys and interviews on our key stakeholders: students, faculty and staff, Facilities Management Services (FMS) to get their opinions on issues related to campus energy consumption and future efforts to conserve energy on-campus. After the research phase, we would analyze our results and brainstorm the best technological solution to resolve CBPD’s problem. We would hope to come up with a sufficient number of use cases for our technological solution and explore ways in which the student body can interact with it to see campus energy consumption and file complaints to FMS.",
-    "logo": "assets/img/project_logos/spring2015/48.jpg",
-    "pdf": "assets/img/project_pdfs/spring2024/48.pdf",
-    "sdg": [""],
-    "tech": [""]
-  },
-
-  {
-    "id": 49,
-    "partner": "Best of the Batch Foundation",
-    "year": "2015",
-    "course": ["67-373"],
-    "representatives": ["Latasha Wilson-Batch"],
-    "students": ["Roei Curi-Hoory", "Pranita Ramakrishnan", "Siddarth Sivakumar", "Allison Wilson"],
-    "desc": "The primary goal of this project was to ensure that the registration process for all parties shifted from a paper-based system to an electronic one. To do so, we redesigned the existing application infrastructure and developed a new comprehensive application. After learning about issues faced during the 2014 registration and speaking with both the client and former team, our project vision was also aimed towards bolstering the features of the existing system and developing new features to improve the experience for all stakeholders.",
-    "logo": "assets/img/project_logos/spring2015/49.jpg",
-    "pdf": "assets/img/project_pdfs/spring2024/49.pdf",
-    "sdg": [""],
-    "tech": [""]
-  },
-
-  {
-    "id": 50,
-    "partner": "Accountability",
-    "year": "2015",
-    "course": ["67-373"],
-    "representatives": ["Raul Figueroa"],
-    "students": ["Alice Borie", "Cindy Lai", "Sangha Lee", "Duncn McIsaac"],
-    "desc": "The team built a mobile friendly web application that construction industry workers can use as a means for quality control. This application forces engineers and quality assurance specialists to complete structural tests on individual building components. The application makes this information available to all users associated to a project and helps the project owner from being blindsided about potential building collapse risks. The application the team built is comprised of a strong visual front end so that engineers would have no difficulties using the system. The system is designed in such a way to prevent cheating when importing project information and completing tests. With this application, construction professionals are able to see which engineers and architects have a history of safely constructed buildings.",
-    "logo": "assets/img/project_logos/spring2015/50.jpg",
-    "pdf": "assets/img/project_pdfs/spring2015/50.pdf",
-    "sdg": [""],
-    "tech": [""]
-  },
-
-  {
-    "id": 1000,
-    "partner": "",
-    "year": "2015",
-    "course": ["67-373"],
-    "representatives": [""],
-    "students": [
-     
-    ],
-    "desc": "",
-    "logo": "assets/img/project_logos/spring2024/",
-    "pdf": "assets/img/project_pdfs/spring2024/",
-    "sdg": [""],
-    "tech": [""]
   }
 ]
