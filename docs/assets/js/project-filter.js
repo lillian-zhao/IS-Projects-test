@@ -144,6 +144,8 @@ $(document).ready(function () {
         console.log("This is the logging of year")
         console.log(year)
 
+        console.log(Object.keys(projectsByYear))
+
         // Render projects with headings
         Object.keys(projectsByYear).forEach((year) => {
           const yearProjects = projectsByYear[year];
@@ -152,7 +154,7 @@ $(document).ready(function () {
           console.log(yearProjects)
           if (yearProjects.length > 0) {
             // Append year heading
-            $companyWrapperContainer.prepend(
+            $companyWrapperContainer.append(
               `<h4 class="w-100 text-center text-red fw-semibold">Spring ${year}</h4>`
             );
 
@@ -193,7 +195,7 @@ $(document).ready(function () {
                 project?.logo
               );
               companyWrapper.append(imgElement);
-              $companyWrapperContainer.prepend(companyWrapper);
+              $companyWrapperContainer.append(companyWrapper);
             });
           }
         });
