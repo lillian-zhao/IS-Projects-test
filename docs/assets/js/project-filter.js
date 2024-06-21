@@ -125,6 +125,7 @@ $(document).ready(function () {
           // Auto-detect year from the 'year' field
           if (project.year) {
             year = Array.isArray(project.year) ? project.year[0] : project.year;
+            year.sort(function(a, b){return b-a});
             // Extract year from date string (if applicable)
             if (typeof year === "string" && year.match(/^\d{4}$/)) {
               year = year.substring(0, 4);
