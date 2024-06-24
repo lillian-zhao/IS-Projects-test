@@ -939,17 +939,254 @@
   },
 
   {
+    "id": 66,
+    "partner": "YMCA of Greater Pittsburgh",
+    "year": "2017",
+    "course": ["67-373"],
+    "representatives": ["Jennifer Bouchard", "Toddy Brinkman", "Jim Needles", "Dobarah Pricener"],
+    "students": ["Jake Bittner", "Eric Chow", "Abdusamed Sherif", "Glen Wise"
+     
+    ],
+    "desc": "Our vision is to provide YMCA staff members and volunteers a comprehensive attendance tracking system that provides an intuitive interface for entering children’s attendance. This system will allow members of YMCA to quickly and easily take care of data entry for kids registered for their programs including sign-in and sign-out, along with important food information. With the information in one system ready to generate reports on the current status, volunteers don’t have to keep track of sign-in sheets and employees don’t have to tediously submit data to management systems. In the end, volunteers can focus more on their interactions with children and YMCA directors and other employees can cut out massive inefficiencies to their paper-based solutions.",
+    "logo": "assets/img/project_logos/spring2017/66.jpg",
+    "pdf": "assets/img/project_pdfs/spring2017/66.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 67,
+    "partner": "Software Engineering Institute",
+    "year": "2017",
+    "course": ["67-373"],
+    "representatives": ["Chase Midler", "Satya Venneti"],
+    "students": ["Asawari Kanitkar", "Divya Mohan", "Katie Williams"
+     
+    ],
+    "desc": "Our project is the first step towards deploying the prototype by providing heart rate analysis through a live demonstration of our client’s technology. The objective of our application is to allow anyone with a computer webcam to obtain their own heart rate by recording a video to be processed by our client’s technology. This technology challenges the existing market for wearable health monitors by eliminating the need for costly devices and focusing on the sole use of video input through a noninvasive technique. With increased accessibility and development, the potential applications of this technology are numerous, ranging from aiding security screening measures to medical use in developing countries.",
+    "logo": "assets/img/project_logos/spring2017/67.jpg",
+    "pdf": "assets/img/project_pdfs/spring2017/67.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 68,
+    "partner": "San Francisco Department on the Status of Women",
+    "year": "2017",
+    "course": ["67-373"],
+    "representatives": ["Herschell", "Carol Sacco"],
+    "students": ["Connor Hanley", "Amber Hu", "Helen Kim", "Sina Siddiqi"
+     
+    ],
+    "desc": "After extensive research into pre-existing solutions and custom build options, our client and our team determined that the best solution would be to build a custom built web application to optimize the report submission, management, and storage procedure. The app would allow the grantee programs to submit the required report for the current quarter and allow our clients to store these submissions on the cloud for easy extraction at the end of the fiscal year. When grantee programs submit their reports, the app would rename the file appropriately and sort them into the relevant folders, reducing the manual labor on both our client and the grantee programs. The app should also allow our client to filter through the submissions and create custom downloads based on the files they need to reference. In addition to the web application, we also wanted to refactor their existing Master Excel to become more dynamic and sustainable based on the modified file directory system.",
+    "logo": "assets/img/project_logos/spring2017/68.jpg",
+    "pdf": "assets/img/project_pdfs/spring2017/68.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 69,
+    "partner": "Phipps Conservatory",
+    "year": "2017",
+    "course": ["67-373"],
+    "representatives": ["Adam Haas", "Sarah States"],
+    "students": ["Natalya Buchwald", "Korrawat Jianthanakanon", "Ally Sorge", "Johnny Wu"
+     
+    ],
+    "desc": "Our team’s goal is to create an interactive, well-designed, and sustainable experience to educate visitors about climate change. Specifically, this experience is a environmental trivia game. The game includes an interactive map of Pittsburgh; this design choice relates to the primary demographic of the visitors of Phipps Conservatory, Pittsburgh natives. This game is visually impressive, with custom designed graphics. Additionally, the game follows the Phipps style guide to coexist cohesively within the conservatory. This game is accessible to various ages, targeting specifically the seventh grade level. Furthermore, this game will be stationed at the halfway point of the typical visit, ensuring the adequate amount of attention from the player.",
+    "logo": "assets/img/project_logos/spring2017/69.jpg",
+    "pdf": "assets/img/project_pdfs/spring2017/69.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 70,
+    "partner": "Pennsylania Resources Council",
+    "year": "2017",
+    "course": ["67-373"],
+    "representatives": ["Omoye Aikhuele", "Michael Stepaniak", "Justin Stockdale"],
+    "students": ["Sai Dhulipalla", "Rebecca Kern", "Ziren Zhou"
+     
+    ],
+    "desc": "Our proposed solution to these problems was to store PRC’s recycling hotline resources in a database from which they could easily retrieve, update, and verify information. This system would also contain the ability to record calls, thus streamlining their calling procedure. This would serve as an internal resource that could be used by all employees of PRC using the hotline and would allow information to be consistent, securely stored, and easily accessible across the organization.",
+    "logo": "assets/img/project_logos/spring2017/70.jpg",
+    "pdf": "assets/img/project_pdfs/spring2017/70.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 71,
+    "partner": "Kodiak Island Borough School District",
+    "year": "2017",
+    "course": ["67-373"],
+    "representatives": ["Damon Hargraves", "Jethro Jones"],
+    "students": ["Sebastián Guerrero Cárdenas", "Chris Lewis", "Sophie Zhao"],
+    "desc": "After comprehending our client’s core problem with scalability and conducting extensive requirements gathering, we focused on modifying the current Pickr scheduling tool to be packageable and installable. We compared five possible solutions using a decision matrix - eventually proceeding by maintaining their original AngularJS front-end, re-building the CakePHP back-end with Node.js, storing data in SQLite, and packaging using Electron. The interface and functionality of the application would not be drastically altered despite the change in development stack, making the application easier to adopt by the current users. Along the way, usability issues could be solved as noted by our community partners. Packaging and installation ability will allow distribution of this RTI scheduling tool to benefit other schools’ educational programs as well.",
+    "logo": "assets/img/project_logos/spring2017/71.jpg",
+    "pdf": "assets/img/project_pdfs/spring2017/71.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 72,
+    "partner": "Holocuast Center of Pittsburgh",
+    "year": "2017",
+    "course": ["67-373"],
+    "representatives": ["Lauren Bairnsfather"],
+    "students": ["Sid Malladi", "Sarah Reyes-Franco", "Emily Su"
+     
+    ],
+    "desc": "We proposed to create a CRM system that allows attendees to check-in with the center’s events and galleries, and a way for visitors to provide more information about their interests in the Holocaust Center through a follow-up email. From a visitor’s standpoint, they would be able to quickly enter their email, first name, and last name. After a visit, visitors would be sent a link to complete additional information such as age and what their specific interests are. This allows the center to view analytics of their visitors and events, such as popular times and days of the week, and demographic information about their visitors. From a staff member’s perspective, they will be able to upload a pre-registration sheet and their existing Mailchimp subscribers to quickly look-up previous visitors of the Holocaust Center and checking them in a few seconds. With this information stored digitally, the center will be able to pull tangible data in order to make decisions about events and appeal for funding.",
+    "logo": "assets/img/project_logos/spring2017/72.jpg",
+    "pdf": "assets/img/project_pdfs/spring2017/72.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 73,
+    "partner": "Handprinter.org",
+    "year": "2017",
+    "course": ["67-373"],
+    "representatives": ["Gregory Norris"],
+    "students": ["Alex Frazier", "Serene Gao", "Meghana Valluri"
+     
+    ],
+    "desc": "Our team’s project vision is to build a seamless crowd-sourcing platform that allows submission of action ideas and includes a model generation interface that allows expert users to create a report detailing the description, variables, equation and documentation for an action idea. The primary users of our proposed project are both environmentally-conscious users as well highly-skilled individuals with necessary backgrounds in life cycle assessment and sustainability.",
+    "logo": "assets/img/project_logos/spring2017/73.jpg",
+    "pdf": "assets/img/project_pdfs/spring2017/73.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 74,
+    "partner": "CMU Spring Carnival Committee",
+    "year": "2017",
+    "course": ["67-373"],
+    "representatives": ["Amalia Martinez", "Stephen Clark"],
+    "students": ["Akshay Goradia", "Bruce Lin", "Rumby Wilson"
+     
+    ],
+    "desc": "We propose to first robustly test the application models and fix the 6 high-priority GitHub issues that are bug and security related. We aim to use this as a fundamental version of the application that is stable and free of functional errors. The next step is to build a notification feature in conjunction with the existing features to alert the users under different situations. For SCC members, the notification feature alerts them when a note is posted to a member. For student users, the feature alerts them when a requested tool becomes available, when a watch shift is imminent, and when organization starts downtime.",
+    "logo": "assets/img/project_logos/spring2017/74.jpg",
+    "pdf": "assets/img/project_pdfs/spring2017/74.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 75,
+    "partner": "CMU Professional Development Services",
+    "year": "2017",
+    "course": ["67-373"],
+    "representatives": ["Kim Abel", "Sarah Emory", "Adam Marks"],
+    "students": ["Travis Chambers", "Richard Huang", "Piyush Puri"
+    ],
+    "desc": "Our goal for this project was to build a robust, deployable, and scalable web application for Professional Development Services. Their new competency-centric initiative hinged on our application being deployed and usable. We began the project knowing a successful deployment was expected and adjusted our scope and feature set accordingly throughout the semester. Our biggest goals were a highly interactive assessment report and an intuitive admin-side for the application. Pr",
+    "logo": "assets/img/project_logos/spring2017/75.jpg",
+    "pdf": "assets/img/project_pdfs/spring2017/75.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 76,
+    "partner": "CMU Athletics",
+    "year": "2017",
+    "course": ["67-373"],
+    "representatives": ["Christine Scalise"],
+    "students": ["James Jameson", "Hyun Hee", "Clara Kim", "Andrew Wang"
+     
+    ],
+    "desc": "Our vision is to implement a web application that will increase the reliability and efficiency of the equipment rental process. With the planned web application, CMU Athletics will be able to reliably track who rents out what equipment and when the equipment is rented out. This will allow the organization to ensure that the equipment is returned and customer rental information is tracked. The student employees working at the equipment desk will also be able to improve the efficiency in which equipment is checked out and checked in. This will be done by reducing the human input and automating much of the information tracked in the system.",
+    "logo": "assets/img/project_logos/spring2017/76.jpg",
+    "pdf": "assets/img/project_pdfs/spring2017/76.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 77,
+    "partner": "Blue Sky Fund",
+    "year": "2017",
+    "course": ["67-373"],
+    "representatives": ["Paula Labieniec"],
+    "students": ["Jason Chen", "Jordan Stapinski", "Fang You"
+     
+    ],
+    "desc": "Through the Oppia platform, the team envisions an opportunity for Blue Sky Fund’s educators to create interactive online content to remedy time lost by unforeseen blockages on field trips. The Oppia interactions, both the existing ones and the new one the team customized based on the client’s course design, would provide quick and simple methods of creating innovative learning exercises for students. Students will have diversified learning experiences since not only they will have more opportunities to learn, but also will they learn at their own pace.",
+    "logo": "assets/img/project_logos/spring2017/77.jpg",
+    "pdf": "assets/img/project_pdfs/spring2017/77.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 78,
+    "partner": "Best of the Batch Foundation",
+    "year": "2017",
+    "course": ["67-373"],
+    "representatives": ["Latasha Wilson-Batch"],
+    "students": ["Annette Chen", "Akash Kejriwal", "Jeremy Lee"
+     
+    ],
+    "desc": "The primary goal of this project was to rebuild and refactor the entire web application that previous IS teams had developed. After learning about the issues the client faced in previous years with usability and functionality, our goal became to create a web application that achieved a smooth registration process for Project C.H.U.C.K. and Next Level Athletics and to ensure the user interface / user experience of the application was well designed for both the admin and general user. We also envisioned that our system would support the easy addition of more programs as Best of the Batch grows and adds new programs to their repertoire.",
+    "logo": "assets/img/project_logos/spring2017/78.jpg",
+    "pdf": "assets/img/project_pdfs/spring2017/78.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 79,
+    "partner": "Beaver County Humane Society",
+    "year": "2017",
+    "course": ["67-373"],
+    "representatives": ["Donna Bucek", "Karen Dioguardi", "Shannan O'Neill", "Susan Salyards"],
+    "students": ["Daniel Graf", "Pooja Penninti"
+     
+    ],
+    "desc": "Our vision for our project will be to enhance the overall product left by last years team, in order to identify lingering problems with their foster system setup.",
+    "logo": "assets/img/project_logos/spring2017/79.jpg",
+    "pdf": "assets/img/project_pdfs/spring2017/79.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 80,
+    "partner": "Auberle",
+    "year": "2017",
+    "course": ["67-373"],
+    "representatives": ["Suzi Rosati"],
+    "students": ["Erin Dieringer", "Matt Gruber", "RhoEun Song"
+     
+    ],
+    "desc": "Our goal was to create a scheduling system that can be integrated through a responsive web application. The system would consolidate all children’s schedules into one system that can be updated by case specialists and admins, and accessed by case aides. Based on the children’s schedules and the planned trips for the case aides, the system would be able to notify employees of canceled trips, when help is needed, and when schedules are submitted for approval to the administrators. We created our solution using a Ruby on Rails application hosted on an IS department server, cmuisprojects.org, with a server provided by Auberle’s third party IT vendor (Ideal Integrations). The stakeholders for our application are the Foster Care Director, Ideal Integrations, the Director of Facilities and Operations, case specialists and aides, along with foster 31 families and childern. Our users are the Foster Care Directer - Suzi, case specialists, cae aides, and case managers.",
+    "logo": "assets/img/project_logos/spring2017/80.jpg",
+    "pdf": "assets/img/project_pdfs/spring2017/80.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
     "id": 1000,
     "partner": "",
-    "year": "2016",
+    "year": "2017",
     "course": ["67-373"],
     "representatives": [""],
     "students": [
      
     ],
     "desc": "",
-    "logo": "assets/img/project_logos/spring2016/",
-    "pdf": "assets/img/project_pdfs/spring2016/",
+    "logo": "assets/img/project_logos/spring2017/.jpg",
+    "pdf": "assets/img/project_pdfs/spring2017/.pdf",
     "sdg": [""],
     "tech": [""]
   }
