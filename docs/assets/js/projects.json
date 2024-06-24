@@ -703,17 +703,253 @@
   },
 
   {
-    "id": -1,
-    "partner": "",
-    "year": "2015",
+    "id": 51,
+    "partner": "YMCA of Greater Pittsburgh",
+    "year": "2016",
+    "course": ["67-373"],
+    "representatives": ["YMCA of Greater Pittsburgh"],
+    "students": ["Renzo Bautista", "Derek Hirata", "Yeon Soo Kim"],
+    "desc": "Our project aims to overhaul the current process of taking attendance at the YMCA. Rather than using three different attendance sheets, the system would be capable of keeping track of attendance on a single sheet for each program. The system is integrated into the existing databases that the YMCA uses for attendance and other metrics -- Daxko, PELICAN, Apricot -- and generates reports for administrative use.",
+    "logo": "assets/img/project_logos/spring2016/51.jpg",
+    "pdf": "assets/img/project_pdfs/spring2016/51.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 52,
+    "partner": "United Mitochondrial Disease Foundation",
+    "year": "2016",
+    "course": ["67-373"],
+    "representatives": ["Chuck A. Mohan", "Jeff Gamza", "Cliff F. Gorski"],
+    "students": ["Luke Hottinger", "Lois Yang", "Eric Yu"
+     
+    ],
+    "desc": "Our goal is to revamp the site such that the Path to a Cure site is more animated, intuitive, and interactive by educating first time users what Mitochondrial Disease is and entails, add milestones of achievements that the UMDF has made, and offering more customization to the bricks. This way, we can attract, educate, and retain new donors to the site. Combining the Path to a Cure site with their home site will save them money.",
+    "logo": "assets/img/project_logos/spring2016/52.jpg",
+    "pdf": "assets/img/project_pdfs/spring2016/52.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 53,
+    "partner": "SwiftCeipt",
+    "year": "2016",
+    "course": ["67-373"],
+    "representatives": ["Kevin Chau", "Jason Xu", "Jon Yen"],
+    "students": ["Sivan Mehta", "Eric Terui", "Amy Zheng"],
+    "desc": "Knowing this situation, our team believed we could add the most value to them by creating a desktop application. This would surely allow them to expand their user base beyond only iOS users to anyone with a web browser. On top of the existing feature set, we aimed to explore and create more interesting and innovative features based on the needs and visions of our client. For example, the folder feature to organize the receipts, data visualization feature.",
+    "logo": "assets/img/project_logos/spring2016/53.jpg",
+    "pdf": "assets/img/project_pdfs/spring2016/53.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 54,
+    "partner": "Software Engineering Institute",
+    "year": "2016",
+    "course": ["67-373"],
+    "representatives": ["Josh Hammerstein"],
+    "students": ["Westin Lohne", "Arun Marsten", "Donovan Powers", "Aamer Rakla"
+     
+    ],
+    "desc": "Based on the need of the client, we envision a solution that allows the intuitive creation of evaluation rubrics to be used as machine learning training data. Simply, this solution should allow people to tag appropriate skills demonstrated in videos, and chain those skills into larger sets of skills. The narrative, as informed by our conversations with the client, demonstrates that the creation of these KSA rubrics is imperative to enable the eventual functionality of their computer vision-enabled evaluation tool.",
+    "logo": "assets/img/project_logos/spring2016/54.jpg",
+    "pdf": "assets/img/project_pdfs/spring2016/54.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 55,
+    "partner": "Six Degrees of Francis Bacon",
+    "year": "2016",
+    "course": ["67-373"],
+    "representatives": ["Christopher Warren", "Jessica Otis"],
+    "students": ["David Gao", "Max Harlynking", "Amy Li"
+     
+    ],
+    "desc": "In order to increase the number of contributions to the Six Degrees of Francis Bacon website, the team planned to implement several new features so users can discover new responsive ways to interact with the website. These features included a points system so users can track their progress towards updating their account to Curator Status, an updated user profile, a leaderboard to compare their progress with other users, and a new form to contribute to the website. These new interactive features bring a fun element to how users utilize the website and gives them recognition for their contributions.",
+    "logo": "assets/img/project_logos/spring2016/55.jpg",
+    "pdf": "assets/img/project_pdfs/spring2016/55.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 56,
+    "partner": "Phipps Conservatory",
+    "year": "2016",
+    "course": ["67-373"],
+    "representatives": ["Adam Haas", "Emily Kalnicky"],
+    "students": ["Jibby Ayo-Ani", "Suvrath Penmetcha", "Alex Tsai"
+     
+    ],
+    "desc": "The focus of this project is the ongoing challenge to find new ways of engaging visitors on the CSL’s performance and sustainability in order to allow them to connect more deeply with the environment. We sought to fulfill this need through a web application that took visitors through an interactive tour of the building. We started by gathering feedback to understand why visitors went to the CSL, what they expected to see and experience, as well as what would make them come again. The visitors include those who come as student groups as well as other people of a variety of age groups and demographics.",
+    "logo": "assets/img/project_logos/spring2016/56.jpg",
+    "pdf": "assets/img/project_pdfs/spring2016/56.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 57,
+    "partner": "Pennsylania Resources Council",
+    "year": "2016",
+    "course": ["67-373"],
+    "representatives": ["Ross Hirschfeld", "Sarah Shea", "Justin Stockdale"],
+    "students": ["Nikita Bokil", "Ann Chen", "Connor Moore"
+     
+    ],
+    "desc": "Our vision consists of three parts. First, we want to ensure efficient, effective data collection by developing business processes around an offline survey tool so that it is accessible in the parking lots. Second, we want to provide appropriate data visualizations so that PRC can better understand their customers, strengthen their value to the community, and procure more funds from the Page 31 municipalities. Third, we want to develop an events filtering map that will be featured on the PRC website. The map will display upcoming PRC events and allow users to filter by different event types near them. We hope that the events platform will increase PRC’s membership value proposition and encourage users to visit their site.",
+    "logo": "assets/img/project_logos/spring2016/57.jpg",
+    "pdf": "assets/img/project_pdfs/spring2016/57.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 58,
+    "partner": "Handprinter.org",
+    "year": "2016",
+    "course": ["67-373"],
+    "representatives": ["Gregory Norris"],
+    "students": ["Jennifer Jin", "Chiamaka Nnebe", "Javed Ramjohn","Mark Vella"
+     
+    ],
+    "desc": "Our team set out to build an interface for leaf users (non-expert, average users). The interface would be a responsive web application that allows anyone to submit ideas at any time, with ease. Key areas of functionality included: the ability to submit a new idea and options to browse, comment, and vote on ideas. Ensuring all of these actions would be usable, while providing feedback that allowed users to understand the positive impact he or she makes through contributing guided our design process.We aimed to develop an application that educates users on handprinting, encourages them to contribute, and allows them to contribute with ease in a mobile and desktop environment.",
+    "logo": "assets/img/project_logos/spring2016/58.jpg",
+    "pdf": "assets/img/project_pdfs/spring2016/58.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 59,
+    "partner": "Environmental Foodprint",
+    "year": "2016",
+    "course": ["67-373"],
+    "representatives": ["Michelle Tom", "Paul Fischbeck", "Christ Hendrickson"],
+    "students": ["Karen Irvine", "Anne Lueh", "Jackie Pan"
+     
+    ],
+    "desc": "We proposed to create an educational and interactive calculator that acts as a vehicle for publicizing their research in the form of a web application. The application will allow users to input foods into their meals so they can easily visualize the nutritional and environmental impact certain foods have on both their health and the environment. Users will also be able to compare their specific diet to the USDA recommended diet and other diets.",
+    "logo": "assets/img/project_logos/spring2016/59.jpg",
+    "pdf": "assets/img/project_pdfs/spring2016/59.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 60,
+    "partner": "CMU Spring Carnival Committee",
+    "year": "2016",
+    "course": ["67-373"],
+    "representatives": ["Patrick Koenig"],
+    "students": ["Ronnie Ghose", "Israel Madume", "Kunal Sinha"
+     
+    ],
+    "desc": "Our first vision was to improve and extend the existing Binder application so that it supported our client’s developing needs and workflows. Our second vision was to use our expertise as Information Systems professionals to learn about our client’s business process and inform them of ways technology could facilitate processes in their organization. Our first goal was our main focus as that was our client’s immediate need, and our second goal was something we intended to complete as the semester progressed.",
+    "logo": "assets/img/project_logos/spring2016/60.jpg",
+    "pdf": "assets/img/project_pdfs/spring2016/60.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 61,
+    "partner": "CMU Professional Development Services",
+    "year": "2016",
+    "course": ["67-373"],
+    "representatives": ["Kim Abel", "Adam Marks", "Katherine Sheridan"],
+    "students": ["Madeline Duque", "Jennifer Han", "James Ormond"
+     
+    ],
+    "desc": "The vision of this project is the creation of a web based portal that allows employees to take a competency assessment and be presented with resources and a plan on how to maintain and/or develop certain areas of competency. The web page will have two main users - CMU faculty and staff, and Professional Development Services staff. The first use is for employees to assess their competency level, and be presented with resources and a plan on how to maintain and/or develop their selected competency. Paired with a plan of action, CMU faculty and staff will be more motivated to follow through with their development. The second use of the system is for Professional Development Services staff, or equivalent administrators, to access the system and customize the content. This includes modifying the assessment itself, altering the interpretation algorithm, and adding/removing/editing competencies and resources.",
+    "logo": "assets/img/project_logos/spring2016/61.jpg",
+    "pdf": "assets/img/project_pdfs/spring2016/61.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 62,
+    "partner": "Center for Building Performance and Diagnostics",
+    "year": "2016",
+    "course": ["67-373"],
+    "representatives": ["Azizan Aziz", "Betrand Lasternas"],
+    "students": ["Brad Chin", "Karen Segal", "Maggie Yu"
+     
+    ],
+    "desc": "Per the client’s request, our main goals for the project were to deploy the existing web application developed by the previous student team, recruit members from the CMU community to use the Page 11 application, and improve the application based on user feedback. We also agreed to implement several essential features for ConnectFMS and planned on implementing “nice-to-have” features if time permitted. Through ConnectFMS, we hoped that the CMU community would be able to voice their concerns about sustainability and maintenance issues on campus more easily as well as learn more about CMU’s building performance.",
+    "logo": "assets/img/project_logos/spring2016/62.jpg",
+    "pdf": "assets/img/project_pdfs/spring2016/62.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 63,
+    "partner": "Beverly's Birthdays",
+    "year": "2016",
     "course": ["67-373"],
     "representatives": [""],
     "students": [
      
     ],
     "desc": "",
-    "logo": "assets/img/project_logos/spring2024/",
-    "pdf": "assets/img/project_pdfs/spring2024/",
+    "logo": "assets/img/project_logos/spring2016/63.jpg",
+    "pdf": "assets/img/project_pdfs/spring2016/63.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 64,
+    "partner": "Best of the Batch Foundation",
+    "year": "2016",
+    "course": ["67-373"],
+    "representatives": ["Latasha Wilson-Batch"],
+    "students": ["Bejamin Junker", "Shreeyagaya Khemka", "Sung Jin Kim"
+     
+    ],
+    "desc": "Our vision for this project was threefold: enabling data persistency, enhancing security, and building admin features. To enable data persistence, we created accounts for guardians and volunteers so that they could access and edit their information from year to year. For enhancing security, we established that satisfying brakeman tests and removing data once it has been signed off on, are appropriate security measures for this project. In terms of building admin features we provided additional analytics and a revised team management system.",
+    "logo": "assets/img/project_logos/spring2016/64.jpg",
+    "pdf": "assets/img/project_pdfs/spring2016/64.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 65,
+    "partner": "Beaver County Humane Society",
+    "year": "2016",
+    "course": ["67-373"],
+    "representatives": ["Donna Bucek", "Susan Salyards", "Jasmin Wu"],
+    "students": ["Gus Henry", "Shijie Rao", "Alex Wang"
+     
+    ],
+    "desc": "Our team proposes an application that shows all animals needing fostering, and matches each to the best foster parent, so the staff can quickly and easily foster out animals as quickly as possible.",
+    "logo": "assets/img/project_logos/spring2016/65.jpg",
+    "pdf": "assets/img/project_pdfs/spring2016/65.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 1000,
+    "partner": "",
+    "year": "2016",
+    "course": ["67-373"],
+    "representatives": [""],
+    "students": [
+     
+    ],
+    "desc": "",
+    "logo": "assets/img/project_logos/spring2016/",
+    "pdf": "assets/img/project_pdfs/spring2016/",
     "sdg": [""],
     "tech": [""]
   }
