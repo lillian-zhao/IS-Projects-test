@@ -1263,7 +1263,7 @@
      
     ],
     "desc": "",
-    "logo": "assets/img/project_logos/spring2018/86.jpg",
+    "logo": "assets/img/project_logos/spring2018/86.png",
     "pdf": "assets/img/project_pdfs/spring2018/.pdf",
     "sdg": [""],
     "tech": [""]
@@ -1279,7 +1279,7 @@
      
     ],
     "desc": "Our overarching objective with this project was to deliver a system to help streamline and improve our client's business systems; this solution could, in turn, be shown to potential investors, which could help our client secure funding and expand their business by enabling them to hire new drivers and serve more customers. Our proposed solution was to build on top of Kidlift's current Squarespace application, along with integrating a 3rd party scheduling application, AcuityScheduling. The top priorities for application functionality were customer onboarding, customer sign-in, scheduling, and payment. The functionality of AcuityScheduling covered these use cases, and Squarespace also has a plugin for Acuity which made integration straightforward. Both services have mobile-responsive solutions, which is suitable for the client and their customers, given their preference for a mobile-friendly solution. Using Acuity removes, or at least lessens, the burden of application maintenance on the client.",
-    "logo": "assets/img/project_logos/spring2018/87.png",
+    "logo": "assets/img/project_logos/spring2018/87.jpg",
     "pdf": "assets/img/project_pdfs/spring2018/87.pdf",
     "sdg": [""],
     "tech": [""]
@@ -1295,8 +1295,8 @@
      
     ],
     "desc": "Our goal is to build a portal that translates the contents in the document into an interactive web platform. A clearer, more interactive way to present the information in the PDF document can give manufacturers who seek ILFI certification a better understanding of the process and requirements they must follow. We hope that this solution can also give users an understanding of the Challenge and what it entails (without inundating them with information) and connect them to the appropriate resources to achieve their imperatives.",
-    "logo": "assets/img/project_logos/spring2018/89.png",
-    "pdf": "assets/img/project_pdfs/spring2018/89.pdf",
+    "logo": "assets/img/project_logos/spring2018/88.png",
+    "pdf": "assets/img/project_pdfs/spring2018/88.pdf",
     "sdg": [""],
     "tech": [""]
   },
