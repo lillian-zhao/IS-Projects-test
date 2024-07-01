@@ -1176,17 +1176,298 @@
   },
 
   {
-    "id": 1000,
-    "partner": "",
-    "year": "2017",
+    "id": 81,
+    "partner": "Wesley Family Services",
+    "year": "2018",
+    "course": ["67-373"],
+    "representatives": ["Wesley Family Services"],
+    "students": ["Devansh Kukreja", "Dylan Schwartz", "Sally Zhao"  
+    ],
+    "desc": "The project proposed by our clients will be a SharePoint based system that keeps track of WFSPA's vehicles, generates reports, and allows users to log vehicles in/out with use. Currently, the data is spread out across three systems and is resulting in a loss of time and efficiency. Our project will significantly speed up the transfer of information in the organization regarding their vehicle fleet. This will allow requests and lookups for informatyion to be significantly easier and faster than before. While we could propose solutions using other database systems or software, such as a Ruby on Rails app, this idea offered by the client seems to be most appropriate due to the client's prior experience with the software and maintainability.",
+    "logo": "assets/img/project_logos/spring2018/81.png",
+    "pdf": "assets/img/project_pdfs/spring2018/81.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 82,
+    "partner": "The Education Partnership",
+    "year": "2018",
+    "course": ["67-373"],
+    "representatives": ["Catherine Price"],
+    "students": ["Alex Bainbridge", "Walter Donnellan", "Juliann Fields"
+     
+    ],
+    "desc": "The project vision was to replace The Education Partnership's use of a google doc for teachers to reserved educational STEAM kits with a fully-functional web application. The application would allow teachers to select what kits they wanted to reserve and would allow employees of The Education Partnership to manage kits and export inventory reports.",
+    "logo": "assets/img/project_logos/spring2018/82.jpg",
+    "pdf": "assets/img/project_pdfs/spring2018/82.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 83,
+    "partner": "CMU Spring Carnival",
+    "year": "2018",
+    "course": ["67-373"],
+    "representatives": ["Stephen Clark", "Hannah Koschmeder"],
+    "students": ["Karan Bokil", "Andrew Kim", "Ritika Srivastava"
+     
+    ],
+    "desc": "The Project Vision for our team was to solve the issues with the Binder application and increase the efficiency of the Spring Carnival Committee's operations while addressing the concerns of students and user from previous years. We aim to serve the SCC and the booth building organizations who would be directly affected by the heightened efficiency and new features from our work. Our improvements to Binder will enable the organization to reduce complexity of regular tasks and create a better, more intuitive application experience for the users. Additionally it will streamline processes that would be much more tedious to do manually such as the building of reports.",
+    "logo": "assets/img/project_logos/spring2018/83.png",
+    "pdf": "assets/img/project_pdfs/spring2018/83.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 84,
+    "partner": "Phipps Conservatory",
+    "year": "2018",
+    "course": ["67-373"],
+    "representatives": ["Adam Haas", "Sarah States"],
+    "students": ["Justin Chang", "Graciela Garcia", "Frank Liao"
+    ],
+    "desc": "The project vision is an interface which presents the CSL's data in an understandable and educational way. Our idea is to build a web solution, which allows for the greatest view-ability and compatibility with different devices. This vision seeks to meet the ultimate goal of educating and promoting sustainable living by providing staff and eventually visitors with a simple way of understanding the importance of the CSL. In order to allow for a smooth transition from the old interface to the new one that we develop, we modeled our own interface around some of the more desirable features of the interfaces of their current dashboard.",
+    "logo": "assets/img/project_logos/spring2018/84.png",
+    "pdf": "assets/img/project_pdfs/spring2018/84.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 85,
+    "partner": "Pennsylvania Resources Council",
+    "year": "2018",
+    "course": ["67-373"],
+    "representatives": ["Teresa Bradley", "Stacy Albin"],
+    "students": ["Teresa Bradley", "Stacy Albin"
+     
+    ],
+    "desc": "Our vision was to implement a web application to facilitate data entry, management, analysis and storage in regards to the waste auditing process. We aimed to expedite the initial questionnaire stage by enabling a web option that allows ZWPA staff members to quickly complete necessary fields. Additionally, we aimed to allow ZWPA auditors to quickly and digitally complete waste audit forms. Audit information could then be downloaded and instant analysis will be provided by the application.",
+    "logo": "assets/img/project_logos/spring2018/85.png",
+    "pdf": "assets/img/project_pdfs/spring2018/85.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 86,
+    "partner": "NOAA & Together WeCan",
+    "year": "2018",
     "course": ["67-373"],
     "representatives": [""],
     "students": [
      
     ],
     "desc": "",
-    "logo": "assets/img/project_logos/spring2017/.jpg",
-    "pdf": "assets/img/project_pdfs/spring2017/.pdf",
+    "logo": "assets/img/project_logos/spring2018/86.jpg",
+    "pdf": "assets/img/project_pdfs/spring2018/.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 87,
+    "partner": "KidLift",
+    "year": "2018",
+    "course": ["67-373"],
+    "representatives": ["Lori Pollock", "Ali Lucas"],
+    "students": ["Chih-Sen (Jason) Chang", "Youce (Andy) Ji", "Svayam Mishra"
+     
+    ],
+    "desc": "Our overarching objective with this project was to deliver a system to help streamline and improve our client's business systems; this solution could, in turn, be shown to potential investors, which could help our client secure funding and expand their business by enabling them to hire new drivers and serve more customers. Our proposed solution was to build on top of Kidlift's current Squarespace application, along with integrating a 3rd party scheduling application, AcuityScheduling. The top priorities for application functionality were customer onboarding, customer sign-in, scheduling, and payment. The functionality of AcuityScheduling covered these use cases, and Squarespace also has a plugin for Acuity which made integration straightforward. Both services have mobile-responsive solutions, which is suitable for the client and their customers, given their preference for a mobile-friendly solution. Using Acuity removes, or at least lessens, the burden of application maintenance on the client.",
+    "logo": "assets/img/project_logos/spring2018/87.png",
+    "pdf": "assets/img/project_pdfs/spring2018/87.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 88,
+    "partner": "International Living Future Institute",
+    "year": "2018",
+    "course": ["67-373"],
+    "representatives": ["Alex Co", "Benson Gabler", "Shreyas Krishnaswamy"],
+    "students": ["Arnav Jain", "Karan Gugle", "Manuel Lopez", "Shreyas Krishnaswamy"
+     
+    ],
+    "desc": "Our goal is to build a portal that translates the contents in the document into an interactive web platform. A clearer, more interactive way to present the information in the PDF document can give manufacturers who seek ILFI certification a better understanding of the process and requirements they must follow. We hope that this solution can also give users an understanding of the Challenge and what it entails (without inundating them with information) and connect them to the appropriate resources to achieve their imperatives.",
+    "logo": "assets/img/project_logos/spring2018/89.png",
+    "pdf": "assets/img/project_pdfs/spring2018/89.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 89,
+    "partner": "The Holocaust Center of Pittsburgh",
+    "year": "2018",
+    "course": ["67-373"],
+    "representatives": ["Lauren Apter Bairnsfather", "Jackie Shimshoni"],
+    "students": ["Kenny Cohen", "Sean Park", "Emily Porat"
+     
+    ],
+    "desc": "Readers of the Holocaust Center's comic book series, ChutzPow, explore more than just a story. The stories told in ChutzPow also have a historical context. Our project aims to provide readers around the world a way to explore ChutzPow in a digitized manner while also presenting historical context, facts and other annotations. Our team aimed to not only educate readers through the stories of ChutzPow but to additionally create a fun and interesting experience that was more than just a scanned copy of the comic book.",
+    "logo": "assets/img/project_logos/spring2018/89.png",
+    "pdf": "assets/img/project_pdfs/spring2018/89.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 90,
+    "partner": "Harrison Middle School",
+    "year": "2018",
+    "course": ["67-373"],
+    "representatives": ["Debbie Reynolds", "Renhao Hu"],
+    "students": ["Isha Laad", "Fletcher Marsh","Sydney Bauer", "Renhao Hu"
+     
+    ],
+    "desc": "We will be developing a two-part information system to collect data about student experience and learning for Harrison Middle School students and the IKS Highlander mission director. This information system will consist of collecting student metrics about both soft and hard skills and generating reports for funding petitions and simulation/Mission Ops improvements. This is the first solution to be developed for the school, and there are currently no alternative technological solutions. Instead, feedback is sparingly collected in the form of written essays completed at the end of each simulation.",
+    "logo": "assets/img/project_logos/spring2018/90.png",
+    "pdf": "assets/img/project_pdfs/spring2018/90.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 91,
+    "partner": "Phipps Conservatory",
+    "year": "2018",
+    "course": ["67-373"],
+    "representatives": ["Christine Nalitz", "Mike Cassidy"],
+    "students": ["Ashvin Niruttan", "George Yao", "Minnie Wu"
+     
+    ],
+    "desc": "We propose a web application that has the capability to generate reports on usable and unclean data, and visualize useful metrics in the form of a dashboard. This would enable the client to make use of their data with the knowledge that it is accurate, and use the reports on unclean data to repopulate their database with sanitized data.",
+    "logo": "assets/img/project_logos/spring2018/91.jpg",
+    "pdf": "assets/img/project_pdfs/spring2018/91.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 92,
+    "partner": "Wesley Family Services",
+    "year": "2018",
+    "course": ["67-373"],
+    "representatives": ["Larry Trenga", "Aaron Richards"],
+    "students": ["Yingjing Lu", "John Foley", "Bernard Decelian"],
+    "desc": "The goal of our project was to create an automated auditing system through SharePoint. This system would allow managers in the organization to easily confirm or deny the various access privileges of employees under them, and would provide a consistent online method of auditing for the entire company. We aimed to create an application that could provide users an easy way to view, update, and add information regarding workers, as well as compile reports of the audits that took place.",
+    "logo": "assets/img/project_logos/spring2018/92.png",
+    "pdf": "assets/img/project_pdfs/spring2018/92.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 93,
+    "partner": "The Education Partnership",
+    "year": "2018",
+    "course": ["67-373"],
+    "representatives": ["Jane McCarty", "Catherine Price"],
+    "students": ["Stephanie Pang", "Alina Yu", "Shirley Zhou"
+     
+    ],
+    "desc": "Our project goal was to build a Ruby on Rails application that will allow TEP to replace VendHQ in order to reduce the amount of data manipulation and reentry from 3 months to an automatic process that will only take a few hours of volunteers entering data. Our system needed to allow administrators to enter in the data from teacher transaction sheets (mainly, each teacher's name and quantities of the items they have taken) and update their Salesforce inventory database. Ideally, our system will automatically manipulate the data to fit Salesforce requirements, load the data and update inventory.",
+    "logo": "assets/img/project_logos/spring2018/93.png",
+    "pdf": "assets/img/project_pdfs/spring2018/93.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 94,
+    "partner": "Professional Development Services",
+    "year": "2018",
+    "course": ["67-373"],
+    "representatives": ["Kim Abel", "Adam Marks", "Jason Schneider"],
+    "students": ["Andy Lee", "Julien Naegeli", "Shubhangi Bhotika"
+     
+    ],
+    "desc": "The primary goal of our project was to provide CMU faculty and staff with a secure and large-scale CompetentU application. A secondary goal was to enhance the user experience of the admin by eliminating the bugs from the previous iteration. Our overarching aim was to provide the CompetentU stakeholders and users with a fully functioning interface that requires CMU affiliation to use and that supports heavy usage on a long-term basis.",
+    "logo": "assets/img/project_logos/spring2018/94.png",
+    "pdf": "assets/img/project_pdfs/spring2018/94.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 95,
+    "partner": "CMU University Contracts Office",
+    "year": "2018",
+    "course": ["67-373"],
+    "representatives": ["Matthew D'Emilio", "Brian Spoales"],
+    "students": ["Dylan Hyun", "Julia Luo", "Linda Xia"
+    ],
+    "desc": "We propose creating a web application that performs 'versioning,' or a comparison of differences between software agreements by highlighting additions in green and removals in red. The application would be able to save agreements into the application database as well as allow for other features like software search, side-by-side document comparison, and commenting.",
+    "logo": "assets/img/project_logos/spring2018/95.png",
+    "pdf": "assets/img/project_pdfs/spring2018/85.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 96,
+    "partner": "CMU Athletics: PlaidFit",
+    "year": "2018",
+    "course": ["67-373"],
+    "representatives": ["Adam May"],
+    "students": ["Winston Chu", "Alec Lam", "Aathreya Thuppul"
+     
+    ],
+    "desc": "Our vision is to set up a user-friendly series of applications that replace the current health application used by the CMU Athletic department and its athletes. These applications aim to solve a few key issues present in the existing app: incentive for athletes to use it, data analytics provided to coaches and trainers, as well as improved user interface for all users. Essentially, this app would track numerous different variables (sleep, fatigue, hydration, etc.) and will monitor the health/performance of athletes. The data analytics done by the application will be based off of research in the Sports-Medicine industry in order to provide optimal metrics for the department.",
+    "logo": "assets/img/project_logos/spring2018/96.png",
+    "pdf": "assets/img/project_pdfs/spring2018/96.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 97,
+    "partner": "Carnegie Mellon University Libraries",
+    "year": "2018",
+    "course": ["67-373"],
+    "representatives": ["Jeff Hinkelman"],
+    "students": ["Obed Appiah-Agyeman", "Devin Fan", "Pavan Gollapalli", "Stephen Yamalis"
+     
+    ],
+    "desc": "The vision for this project is a system in which users can download and stream films in the public domain and upload student films and accompanying essays. The goal of our project is to create a resource that can encourage the pedagogical use of video materials and documentation through the context of Oscar Micheaux. The project should enhance the learning experience of users interested in Micheaux but also users wanting to practice film techniques. Our initial project build will include an overview of Oscar Micheaux but also the ability download, edit, and reupload films on a social media like user interface. Users of this project would include students, teachers professors, and scholars interested in learning about Micheaux. The value of our solution is not only in providing a resource for learning about Micheaux but in its longterm ratifications if expanded. This project can encourage the practice of video learning in classrooms with films across universities.",
+    "logo": "assets/img/project_logos/spring2018/97.png",
+    "pdf": "assets/img/project_pdfs/spring2018/97.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 98,
+    "partner": "Beaver County Humane Society",
+    "year": "2018",
+    "course": ["67-373"],
+    "representatives": ["Donna Bueck", "Susan Salyards"],
+    "students": ["Dexter Epouhe", "Siting Jin", "Arnav Luthra"],
+    "desc": "Our team aimed to build a web-based application that streamlines the donation process at the shelter. The online donation form was made so that the donors are able to input their personal information as well as their in-kind donations on a donation kiosk when they come to donate. The information gathered from this donation kiosk also feeds into a basic inventory management system which allows the organization to keep track of the quantity and value of their inventory.",
+    "logo": "assets/img/project_logos/spring2018/98.jpg",
+    "pdf": "assets/img/project_pdfs/spring2018/98.pdf",
+    "sdg": [""],
+    "tech": [""]
+  },
+
+  {
+    "id": 1000,
+    "partner": "",
+    "year": "2018",
+    "course": ["67-373"],
+    "representatives": [""],
+    "students": [
+     
+    ],
+    "desc": "",
+    "logo": "assets/img/project_logos/spring2018/.png",
+    "pdf": "assets/img/project_pdfs/spring2018/.pdf",
     "sdg": [""],
     "tech": [""]
   }
