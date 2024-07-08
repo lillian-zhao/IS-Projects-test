@@ -1,3 +1,4 @@
+
 var chart1 = {
   series: [
     {

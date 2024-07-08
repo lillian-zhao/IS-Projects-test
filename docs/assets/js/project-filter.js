@@ -3,6 +3,7 @@ $(document).ready(function () {
   let sdg = [];
   let tech = [];
   let course = [];
+  
   $("select").formSelect();
 
   $("select.select_all")
@@ -79,13 +80,14 @@ $(document).ready(function () {
     url: "./assets/js/projects.json",
     dataType: "json",
     success: function (data) {
+      let sdgCounts = {};
+
       let filteredProjects = () => {
         var techCompanies = data.filter(function (company) {
           let filterSdg =
             sdg?.length > 0
               ? sdg.every((item) => company.sdg?.includes(item))
               : true;
-
           let filterTechnology =
             tech?.length > 0
               ? tech.every((item) => company.tech?.includes(item))
@@ -102,8 +104,9 @@ $(document).ready(function () {
           //     : true;
 
           return filterSdg && filterTechnology;
-        });
+        });        
         return techCompanies;
+
       };
 
       function renderProjectsByYear(projects) {
