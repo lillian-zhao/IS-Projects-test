@@ -1456,17 +1456,421 @@
   },
 
   {
+    "id": 99,
+    "partner": "412 Food Rescue",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Min Kyung Lee"],
+    "students": ["Aiden Lee", "Anna Yuan", "Calvin Lui", "Christina Chou"],
+    "desc": "412 Food Rescue partners with food retailers, nonprofit organizations, and Food Rescue Volunteers to bring healthy food directly to those experiencing food insecurity. 412 Food Rescue’s technology platform, also known as “Food Rescue Hero,” is an end-to-end system that matches food donations to the appropriate nonprofits, coordinates a last-mile transportation network of volunteers, trains volunteers on food safety and tracks data and analytics–measuring impact on hunger and the environment. The CMU IS students worked with a graduate project in Machine Learning to most fairly dispatch food rescues to nonprofits - they created an easy-to-use front-end and a more streamlined experience for the food dispatchers to take advantage of advanced analytics provided by machine learning tools.",
+    "logo": "assets/img/project_logos/spring2019/99.png",
+    "pdf": "assets/img/project_pdfs/spring2019/99.pdf",
+    "sdg": ["climateaction", "responsibleconsumption", "zerohunger"],
+    "tech": ["userexperience"]
+  },
+
+  {
+    "id": 100,
+    "partner": "A Footbridge",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Kimberly Eckel"],
+    "students": ["Jonathan Fung", "Ru Jia", "Wilson Yu"],
+    "desc": "A Footbridge facilitates community donations to caregivers of children experiencing financial stress and provides skill-building in areas such as financial literacy and healthy parent-child relationships. The CMU IS students developed an initial website for this new nonprofit with functionality to allow for donation requests, validation and site use.",
+    "logo": "assets/img/project_logos/spring2019/100.png",
+    "pdf": "assets/img/project_pdfs/spring2019/100.pdf",
+    "sdg": ["equality", "nopoverty"],
+    "tech": ["webapp"]
+  },
+
+  {
+    "id": 101,
+    "partner": "Airport Corridor Transport Association",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Lynn Manion", "Amy J. Mathieson"],
+    "students": ["Chelsea Cui", "Wanling Ding", "Joie Feng"],
+    "desc": "Businesses in the airport corridor have jobs; individuals in the city and surrounding suburbs need jobs, but may not have access to reliable transportation. The Airport Corridor Transportation Association (ACTA) closes this gap by running an on-demand flex-route shuttle service from a central hub bus stop to nearly 200 local businesses around the airport corridor. The CMU IS student team helped ACTA gather feedback from riders and increase exposure to new riders by incorporating a review feature on Google maps, a Twitter campaign and a survey into the existing website.",
+    "logo": "assets/img/project_logos/spring2019/101.jpg",
+    "pdf": "assets/img/project_pdfs/spring2019/101.pdf",
+    "sdg": ["sustainablecities", "workandeconomicgrowth"],
+    "tech": ["dataanalytics", "geographicinformationsystem", "socialmediapage"]
+  },
+
+  {
+    "id": 102,
+    "partner": "American Association of Cancer Institutes",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Jaren Love", "Emily Stimmel"],
+    "students": ["Taruna Emani", "Erika Giuse", "Maya Sripadam"],
+    "desc": "The American Association of Cancer Institutes is a member-based organization with a platform that provides for voluntary knowledge-sharing related to ongoing cancer research. The CMU IS students delivered a solution for the AACI to store and share state-based cancer legislation and advocacy information, providing members a resource to craft similar legislation in their own state.",
+    "logo": "assets/img/project_logos/spring2019/102.png",
+    "pdf": "assets/img/project_pdfs/spring2019/102.pdf",
+    "sdg": ["promotehealth"],
+    "tech": ["databasesolution"]
+  },
+
+  {
+    "id": 103,
+    "partner": "Carnegie Mellon Robotics Institute",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Rachel Burcin"],
+    "students": ["Monica Chang", "Justin Kufro", "Penelope McKeefry", "Darien Weems"],
+    "desc": "The Carnegie Mellon Robotics Institute Summer Scholars (RISS) program cultivates talented robotics students from around the world. In order to offer this world-class experience equitably, the RISS wanted a clear and unbiased application process. The CMU students created a new system for submission, review and acceptance of applicants to the summer program. They streamlined the process and included features to reduce bias in the process.",
+    "logo": "assets/img/project_logos/spring2019/103.jpg",
+    "pdf": "assets/img/project_pdfs/spring2019/103.pdf",
+    "sdg": ["qualityeducation"],
+    "tech": ["databasesolution"]
+  },
+
+  {
+    "id": 104,
+    "partner": "CMU Spring Carnival Committee",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Stephen Clark", "Hannah Koschmeder"],
+    "students": ["Ameeshi Goel", "Bo Tembunkiart", "Lorraine Zhang"],
+    "desc": "Carnegie Mellon University (CMU) Spring Carnival is an annual three-day event of rides, robots, races, music and comedy, engineering feats and reunions; it an opportunity for students, alumni, faculty and staff to come together with the Pittsburgh community for fun and entertainment. The CMU IS student team worked with the Carnival Committee to improve the system used for planning and managing the campus-wide, student centric event.",
+    "logo": "assets/img/project_logos/spring2019/104.png",
+    "pdf": "assets/img/project_pdfs/spring2019/104.pdf",
+    "sdg": ["equality", "qualityeducation"],
+    "tech": ["technologystrategy", "webapp"]
+  },
+
+  {
+    "id": 105,
+    "partner": "Dream Center Educational Holdings",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Chad Shipley", "Matt Siconolfi"],
+    "students": ["Jenine Clay", "Kasdan Bakos", "Simrin Guglani"],
+    "desc": "Dream Center Education Holdings managed several for profit education programs, including The Art Institutes in Pittsburgh. The students worked with the organization’s information security team to create a system that assigns risk scores to internally used applications, highlights the top cyber risks and includes guidelines to mitigate the risks.",
+    "logo": "assets/img/project_logos/spring2019/105.png",
+    "pdf": "assets/img/project_pdfs/spring2019/105.pdf",
+    "sdg": ["qualityeducation"],
+    "tech": ["informationsecurityrisk"]
+  },
+
+  {
+    "id": 106,
+    "partner": "East End Cooperative Ministry - SewForward Program",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Hannah Moon", "Tony Cortese", "Kellie Wild"],
+    "students": ["Cathy Dong", "Zoe Teoh", "Maggie Williams"],
+    "desc": "East End Cooperative Ministry serves vulnerable adults and at-risk children and youth throughout Pittsburgh through programs that provide nutrition assistance, housing services, behavioral health support, education and employment assistance. The CMU IS student team worked with the managing director of the EECM Sew Forward program. Sew Forward provides technical education, access to professional sewing machines, jobs, entrepreneurship training, and more, for exploring careers in the fields of sewing, tailoring and fashion design. The students used Salesforce.com to configure and implement the supply chain process for the Sew Forward business allowing them to track sewing projects from prospect to design to order to manufacture and billing.",
+    "logo": "assets/img/project_logos/spring2019/106.png",
+    "pdf": "assets/img/project_pdfs/spring2019/106.pdf",
+    "sdg": ["equality", "nopoverty"],
+    "tech": ["softwareintegration", "technologystrategy"]
+  },
+
+  {
+    "id": 107,
+    "partner": "Harrison Middle School",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Debbie Reynolds"],
+    "students": ["Xinwen Liu", "Elizabeth Wang", "Roxanne Zhang"],
+    "desc": "IKS Highlander is a mission-based learning environment for middle school students that uses science fiction and fantasy storytelling and blends STEM topics from social studies, science, humanities, and art. The missions use a sixteen member crew who are assigned roles like pilot, engineer, or doctor. Each crew member is responsible for different functions of the ship to teach teamwork and collaboration. The CMU IS students worked with Baldwin Middle School staff to develop pre- and post-mission surveys and with charts, infographics, and data tables representing the learning outcomes achieved.",
+    "logo": "assets/img/project_logos/spring2019/107.png",
+    "pdf": "assets/img/project_pdfs/spring2019/107.pdf",
+    "sdg": ["qualityeducation", "workandeconomicgrowth"],
+    "tech": ["dataanalytics", "informationkiosk"]
+  },
+
+  {
+    "id": 108,
+    "partner": "Holocaust Center of Pittsburgh",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Lauren Bairnsfather", "Jackie Reese"],
+    "students": ["Ryan Fitzpatrick", "Abbey Mui", "Conlon Novak"],
+    "desc": "The Holocaust Center of Pittsburgh inspires engagement with Holocaust history and connects it to the injustices of today through educational public programming for audiences of all ages. The CMU IS student team created pre- and post-visit assessments allowing visitors to share feedback on their experience and what they learned.",
+    "logo": "assets/img/project_logos/spring2019/108.png",
+    "pdf": "assets/img/project_pdfs/spring2019/108.pdf",
+    "sdg": ["equality", "qualityeducation"],
+    "tech": ["webapp"]
+  },
+
+  {
+    "id": 109,
+    "partner": "Hoot Book Revival",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Natalie Zeltman", "Connie Webb"],
+    "students": ["Sungho Cho", "Alberto Oshiro", "Vivian He"],
+    "desc": "Hootbook Revival is a small online site to help homeschoolers buy and sell books. The CMU IS student team project was to build a mobile application integrated with the Hoot Book Revival website to scan barcodes of books to speed up the book selling process at book fairs. This was done to also drive traffic to the website.",
+    "logo": "assets/img/project_logos/spring2019/109.png",
+    "pdf": "assets/img/project_pdfs/spring2019/109.pdf",
+    "sdg": ["qualityeducation"],
+    "tech": ["webapp"]
+  },
+
+  {
+    "id": 110,
+    "partner": "Inclusant",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Anupama Jain"],
+    "students": ["Nathan Belaye", "Maitreyee Deshpande", "Shannon Lu"],
+    "desc": "Inclusant is an organization that specializes in diversity and inclusion consulting. The CMU IS students created a form for potential clients to clarify their needs so that the diversity and inclusion services could be most closely matched to the clients needs. In addition, they improved the overall architecture and user experience of the website.",
+    "logo": "assets/img/project_logos/spring2019/110.png",
+    "pdf": "assets/img/project_pdfs/spring2019/110.pdf",
+    "sdg": ["equality", "genderequality"],
+    "tech": ["webapp"]
+  },
+
+  {
+    "id": 111,
+    "partner": "Kodiak Island Borough School District",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Damon Hargraves"],
+    "students": ["Roman Kaufman", "Matt Liu", "Jeremy Xue"],
+    "desc": "Kodiak Island Borough School District is a rural, public school district located on the second largest island in the United States, in the Gulf of Alaska. There are seven schools in the largest city of Kodiak and seven schools (k-12) in the rural villages. The CMU IS student team created an updated online application for parents to register their children for after-school activities. The new form automated many manual steps associated with assigning students to programs and confirming as much with parents.",
+    "logo": "assets/img/project_logos/spring2019/111.png",
+    "pdf": "assets/img/project_pdfs/spring2019/111.pdf",
+    "sdg": ["lifebelowwater", "qualityeducation"],
+    "tech": ["databasesolution", "webapp"]
+  },
+
+  {
+    "id": 112,
+    "partner": "National Council of Jewish Women",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Cristina Ruggiero"],
+    "students": ["Leah Kim", "Sasha Volodin", "Judy Zhang"],
+    "desc": "The National Council of Jewish Women (NCJW) is a grassroots organization of volunteers and advocates who turn progressive ideals into action. The CMU IS student team performed an analysis of the current customer relationship management (CRM) processes and recommended a single replacement solution. As part of this they delivered several documents to help them prepare for the migration to a new solution; a Duplicate Data Removal Plan for cleaning up existing data, a Technical Plan with suggestions for data maintenance, and a Data Governance document with best practices for data entry moving forward.",
+    "logo": "assets/img/project_logos/spring2019/112.jpg",
+    "pdf": "assets/img/project_pdfs/spring2019/112.pdf",
+    "sdg": ["equality", "genderequality"],
+    "tech": ["technologystrategy"]
+  },
+
+  {
+    "id": 113,
+    "partner": "NewERA412",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Taili Thompson", "Maggie McGannon"],
+    "students": ["Ryan Eckert", "Victoria Liang", "Warren Glasner"],
+    "desc": "ReEntry412 is a nonprofit sponsored by Allegheny County aimed at helping formerly incarcerated citizens reintegrate into society. Their goal is to reduce recidivism rate of formerly incarcerated citizens. Working with this nonprofit, the CMU IS students created a mobile-enabled web application for community street outreach workers. With this web application the street outreach workers can share important information with recently released citizens to help them find housing, jobs and other services available to help them reintegrate. In the words the 412 ReEntry community partner, “this application is literally saving lives”.",
+    "logo": "assets/img/project_logos/spring2019/113.png",
+    "pdf": "assets/img/project_pdfs/spring2019/113.pdf",
+    "sdg": ["equality"],
+    "tech": ["databasesolution", "webapp"]
+  },
+
+  {
+    "id": 114,
+    "partner": "Operation Strong Mind",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Tom Stokes"],
+    "students": ["Killian Huang", "David Inyangson", "Siheon Andrew Lee", "Sarah Wang"],
+    "desc": "Operation Strong Mind seeks to connect, engage, advocate and empower - their mission is to maximize military community members’ potential and social resilience by connecting military and civilian communities through education, advocacy, and meaningful interpersonal intervention. The CMU IS student team improved the website and familiarized the members of OSM with G Suite, allowing them to communicate more frequently and more effectively. The students created video tutorials and documentation for the website to ensure the sustainability.",
+    "logo": "assets/img/project_logos/spring2019/114.png",
+    "pdf": "assets/img/project_pdfs/spring2019/114.pdf",
+    "sdg": ["promotehealth", "workandeconomicgrowth"],
+    "tech": ["webapp"]
+  },
+
+  {
+    "id": 115,
+    "partner": "Pennsylvania Rural Robotics Initiative",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Timothy Heffernan"],
+    "students": ["Nicole Ang", "India Unger-Harquail", "Jiayi Zhao"],
+    "desc": "Pa Rural Robotics Initiative (PA RRI) goal is to develop sustainable world-class educational robotics programming for the children in Pennsylvania’s rural communities. The CMU IS student team created a website for PA RRI with information for community members, partners, and potential donors. Included on the website is a system the students created for PA RRI to use in collecting data from participants. The data is used to generate reports on program outcomes to use in applying for grant funding and to improve the program.",
+    "logo": "assets/img/project_logos/spring2019/115.png",
+    "pdf": "assets/img/project_pdfs/spring2019/115.pdf",
+    "sdg": ["equality", "qualityeducation"],
+    "tech": ["webapp"]
+  },
+
+  {
+    "id": 116,
+    "partner": "Phipps Conservatory and Botanical Gardens",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Christine Nalitz", "Joe Reed"],
+    "students": ["Dean Dijour", "Evan Byrd", "Tricia Chen", "Vrinda Gupta"],
+    "desc": "Phipps Conservatory and Botanical Gardens exists to inspire and educate all with the beauty and importance of plants; to advance sustainability and promote human and environmental well-being through action and research; and to celebrate its historic glasshouse. The CMU IS students created a web-based app used in the Discovery Garden Pavers Program, whereby donors to the program inscribed bricks with a dedication which were then used to pave the Children's Discovery Garden walkway. The students fixed inaccuracies in the existing brick data and created an easy search for individuals to locate their bricks.",
+    "logo": "assets/img/project_logos/spring2019/116.png",
+    "pdf": "assets/img/project_pdfs/spring2019/116.pdf",
+    "sdg": ["qualityeducation", "sustainablecities"],
+    "tech": ["informationkiosk"]
+  },
+
+  {
+    "id": 117,
+    "partner": "Pitsburgh Fellows Alumni Association",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Laura Moyer", "Anna Scofield"],
+    "students": ["Christie Chang", "Andy Gao", "Amy Lin"],
+    "desc": "A Fellows Program is a nine month spiritual and vocational leadership program for recent college graduates. The program includes a part-time professional job, theological coursework, Biblical study, mentoring and service. The CMU IS students helped the Pittsburgh Fellows streamline the process of communicating with alumni using modern messaging and web-enabled technology.",
+    "logo": "assets/img/project_logos/spring2019/117.png",
+    "pdf": "assets/img/project_pdfs/spring2019/117.pdf",
+    "sdg": ["sustainablecities", "workandeconomicgrowth"],
+    "tech": ["socialmediapage", "webapp"]
+  },
+
+  {
+    "id": 118,
+    "partner": "Quaker Valley Council of Governments",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Susan Hockenberry"],
+    "students": ["Roly Garcia", "Elliot Allard", "Brandon Hong"],
+    "desc": "The Quaker Valley Council of Governments (QV COG) is a non-profit organization that facilitates multi-municipal efforts and implements efficient, cost-effective programs on behalf of its members. The CMU IS students built a web-based application for citizens of the Quaker Valley region to submit feedback about their community. The QVCOG uses the feedback to make program recommendations for their constituents.",
+    "logo": "assets/img/project_logos/spring2019/118.png",
+    "pdf": "assets/img/project_pdfs/spring2019/118.pdf",
+    "sdg": ["industryinnovationinfrastructure", "sustainablecities"],
+    "tech": ["webapp"]
+  },
+
+  {
+    "id": 119,
+    "partner": "RedChairPGH",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Lou Camerlengo"],
+    "students": ["Jenny Zhu", "Nupur Maheshwari", "Sruthi Surapaneni"],
+    "desc": "RedChairPGH is a network of women and men who are committed to creating gender balance in the Pittsburgh technology professions. The CMU IS students created a mentor/mentee matching application to bring together professional women in technology for career and professional support.",
+    "logo": "assets/img/project_logos/spring2019/119.png",
+    "pdf": "assets/img/project_pdfs/spring2019/119.pdf",
+    "sdg": ["genderequality", "workandeconomicgrowth"],
+    "tech": ["webapp"]
+  },
+
+  {
+    "id": 120,
+    "partner": "Smart Futures",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["David Mosey"],
+    "students": ["Philip Baker", "Joshua Huang", "Albert Yuan"],
+    "desc": "Smart Futures provides online career education resources and training to schools and community-based organizations in Pennsylvania. The CMU IS students integrated G Suite tools into the Smart Futures platform to improve the organization’s developer onboarding process and implement Google Single Sign On functionality for all users.",
+    "logo": "assets/img/project_logos/spring2019/120.png",
+    "pdf": "assets/img/project_pdfs/spring2019/120.pdf",
+    "sdg": ["qualityeducation", "workandeconomicgrowth"],
+    "tech": ["webapp"]
+  },
+
+  {
+    "id": 121,
+    "partner": "Smart Futures",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["David Mosey"],
+    "students": ["Philip Baker", "Joshua Huang", "Albert Yuan"],
+    "desc": "Smart Futures provides online career education resources and training to schools and community-based organizations in Pennsylvania. The CMU IS students integrated G Suite tools into the Smart Futures platform to improve the organization’s developer onboarding process and implement Google Single Sign On functionality for all users.",
+    "logo": "assets/img/project_logos/spring2019/121.png",
+    "pdf": "assets/img/project_pdfs/spring2019/121.pdf",
+    "sdg": ["qualityeducation", "workandeconomicgrowth"],
+    "tech": ["softwareintegration"]
+  },
+
+  {
+    "id": 122,
+    "partner": "Sustainable Pittsburgh",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Autumn Secrest", "Hayden Sloan"],
+    "students": ["Antonio Song", "Alexander Nelson", "Anusha Venkatesan"],
+    "desc": "Sustainable Pittsburgh is a non-profit aimed at improving and encouraging sustainable practices in Pittsburgh. The CMU IS student team made user experience improvements to the web portal used in their annual Sustainable Pittsburgh Challenge competition, with the aim of increasing the number of participants, decreasing the time it takes for the participants to submit evidence, and decreasing the time it takes for the organizers to process these submissions, which will allow our client to further scale the competition in the future.",
+    "logo": "assets/img/project_logos/spring2019/122.jpg",
+    "pdf": "assets/img/project_pdfs/spring2019/122.pdf",
+    "sdg": ["climateaction", "responsibleconsumption", "sustainablecities"],
+    "tech": ["webapp"]
+  },
+
+  {
+    "id": 123,
+    "partner": "The Education Partnership",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Jane McCarty"],
+    "students": ["Nathan Jen", "Joe Segel", "Kyle Chin"],
+    "desc": "The Education Partnership (TEP) provides school supplies for students and their teachers in low-income schools in Southwestern PA. TEP runs a teacher resource center distributing school and classroom supplies at no cost to students and teachers in need. Since 2011 they have served over 130,000 local students with over $17.4 million in school supplies. The CMU IS students modernized TEP’s school supply checkout process by cutting down the amount of steps needed to update the inventory, thus significantly reducing checkout time and increasing the number of local students served.",
+    "logo": "assets/img/project_logos/spring2019/123.png",
+    "pdf": "assets/img/project_pdfs/spring2019/123.pdf",
+    "sdg": ["equality", "qualityeducation"],
+    "tech": ["webapp"]
+  },
+
+  {
+    "id": 124,
+    "partner": "The Empowerment Equation",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Tracey Vogel"],
+    "students": ["Griffin Tang", "John Kim", "Mahima Arya"],
+    "desc": "As many as 1/3 of American women say the birth of their child was traumatic. Many of these women are later diagnosed with post-traumatic stress syndrome (PTSD). The majority of birth trauma is completely preventable. The Empowerment Equation is an organization aimed at improving obstetric care and the birthing experience for women who have experienced such trauma. Childbirth trauma increases the likelihood of postpartum depression and can negatively impact the important mother-baby bond. Working with the empowerment equation, the CMU IS students created a web-based application to be used during early prenatal visits to assess a woman’s risk in a non-threatening way and communicate that to her care-provider.",
+    "logo": "assets/img/project_logos/spring2019/124.png",
+    "pdf": "assets/img/project_pdfs/spring2019/124.pdf",
+    "sdg": ["genderequality", "promotehealth"],
+    "tech": ["webapp"]
+  },
+
+  {
+    "id": 125,
+    "partner": "Wesley Family Services",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Aaron Richards", "Larry Trenga"],
+    "students": ["Lera Neviadomska", "Ryan Hoffman", "Sandy Pan"],
+    "desc": "Wesley Family Services (WFSPA) is a non-profit organization that provides high quality behavioral healthcare services and support programs to children, adults, and families. They have programs in Autism, Intellectual Disabilities, Behavioral Health and Education, serving more than 30,000 individuals and families with a staff of over 1,100 people. The CMU IS students created a database for Wesley Family Services with a front-end website to display details about available services, locations, and contacts. The solution gives WFSPA employees easy access to information so they can tell clients about different locations and services.",
+    "logo": "assets/img/project_logos/spring2019/125.png",
+    "pdf": "assets/img/project_pdfs/spring2019/125.pdf",
+    "sdg": ["promotehealth"],
+    "tech": ["databasesolution"]
+  },
+
+  {
+    "id": 126,
+    "partner": "YMCA Pittsburgh",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Kimberly Black", "Todd Brinkman"],
+    "students": ["Stephanie Ananth", "Tiffany Chen", "Nawon Choi"],
+    "desc": "Camping, like many Y programs, is about learning skills, developing character and making friends. Camping teaches self-reliance, a love for nature and the outdoors and the development of attitudes and practices that build character and leadership. Children return to camp each week and each year when their parents are more involved in their learning. The CMU IS students worked with YCamps to create a platform for parents to check their child’s progress at YCamp and become more engaged and involved.",
+    "logo": "assets/img/project_logos/spring2019/126.jpg",
+    "pdf": "assets/img/project_pdfs/spring2019/126.pdf",
+    "sdg": ["promotehealth", "qualityeducation"],
+    "tech": ["mobapp"]
+  },
+
+  {
+    "id": 127,
+    "partner": "YummyPlants",
+    "year": "2019",
+    "course": ["67-373"],
+    "representatives": ["Rebecca Gilbert"],
+    "students": ["Aditya Bhandari", "Rachel Kim", "Bharath Prabhu", "Vicky Ye"],
+    "desc": "The Yummy Plants mission is to celebrate and share the joy of vegan food, connect vegans all around the world, and show you how easy it is to start eating vegan. The CMU IS students modernized the software architecture and platforms used by Yummy Plants. The result was improved search engine optimization performance for yummyplants.com and driving user traffic to the Yummy Plants website.",
+    "logo": "assets/img/project_logos/spring2019/127.jpg",
+    "pdf": "assets/img/project_pdfs/spring2019/127.pdf",
+    "sdg": ["promotehealth"],
+    "tech": ["webapp"]
+  },
+
+  {
     "id": 1000,
     "partner": "",
-    "year": "2018",
+    "year": "2019",
     "course": ["67-373"],
     "representatives": [""],
-    "students": [
-     
-    ],
+    "students": [""],
     "desc": "",
-    "logo": "assets/img/project_logos/spring2018/.png",
-    "pdf": "assets/img/project_pdfs/spring2018/.pdf",
+    "logo": "assets/img/project_logos/spring2019/.png",
+    "pdf": "assets/img/project_pdfs/spring2019/.pdf",
     "sdg": [""],
     "tech": [""]
   }
