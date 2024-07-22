@@ -257,7 +257,7 @@ a {
   position: relative;
   width: 100%;
   height: 60vh;
-  background: url('/docs/assets/img/HomePageBanner.jpg') no-repeat center center/cover;
+  background: url('../img/HomePageBanner.jpg') no-repeat center center/cover;
 }
 
 .header-banner .overlay {
@@ -276,13 +276,13 @@ a {
 }
 
 .applicationBanner {
-  background: url('/docs/assets/img/1.jpg') no-repeat center center/cover;
+  background: url('../img/1.jpg') no-repeat center center/cover;
   /* background-color: rgba(0, 0, 0, 0.9) !important; Black with 50% opacity */
 
 }
 
 .learnMoreBanner{
-  background: url('/docs/assets/img/learnMoreBanner.jpg') no-repeat center center/cover;
+  background: url('../img/learnMoreBanner.jpg') no-repeat center center/cover;
 
 }
 .app-overlay{
